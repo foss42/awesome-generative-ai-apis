@@ -13,7 +13,7 @@ A curated list of useful Generative AI & LLM APIs for developers.
 
 Generative AI APIs allow developers to integrate generative models into their applications without building the models from scratch. These APIs provide an interface for generating text, images, or other content. They also include LLM APIs that provide access to pre-trained language models for various tasks.
 
-Some of the applications of applications of these APIs are:
+Some of the applications of these APIs are:
 - Content Creation for blogs, social media, and marketing
 - Virtual Assistants and Chatbots
 - Language Translation Services to improve cross-language communication
