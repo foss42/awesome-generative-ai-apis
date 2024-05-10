@@ -1,6 +1,11 @@
+[![Discord Server Invite](https://img.shields.io/badge/DISCORD-JOIN%20SERVER-5663F7?style=for-the-badge&logo=discord&logoColor=white)](https://bit.ly/heyfoss)
+
 This project is an initiative undertaken by [API Dash](https://github.com/foss42/apidash) for GSSoC 2024 contributors.
 
 ![gssoc-logo-1](https://github.com/foss42/awesome-generative-ai-apis/assets/1382619/670b651a-15d7-4869-a4d1-6613df09fa37)
+
+Contributors should go through the [Contributing Guide](https://github.com/foss42/awesome-generative-ai-apis/blob/main/CONTRIBUTING.md) to learn how to send across a PR.
+
 
 # Awesome Generative AI & LLM APIs
 
