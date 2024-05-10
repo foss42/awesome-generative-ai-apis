@@ -29,7 +29,10 @@ You can start contributing by adding the following:
 
 | Project Homepage    | API Docs Link  | Requires Auth Token (Y/N)  | Description (2 lines max)  |
 |:-----------|:------|:------|:-------------|
-|  |     |         |  |
+|  <a href='https://openai.com/index/gpt-3-apps/'>GPT-3</a>|   https://platform.openai.com/docs/api-reference/introduction  |      Y   | It uses deep learning techniques to generate human-like text.</a> |
+|  <a href=https://gemini.google.com/app>GEMINI</a>|   https://ai.google.dev/gemini-api/docs  |      Y   | designed to understand and interact with multiple data types, including text, images, audio, and video. |
+|  <a href='https://llama.meta.com/'>LLAMA</a>|   https://docs.llama-api.com/quickstart  |      Y   | It is designed by **Meta**, LLaMA is designed to answer complex queries and generate text.|
+|  <a href='https://goose.ai/playground'>GOOSEAI</a>|   https://goose.ai/docs/api  |      Y   | GooseAI is a fully managed NLP-as-a-Service, delivered via API |
 
 ## GenAI API Integration Articles/Tutorials
 
