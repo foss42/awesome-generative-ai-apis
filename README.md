@@ -43,4 +43,5 @@ You can start contributing by adding the following:
 
 | Video Title    | Link  | Summary (2 lines max)  |
 |:-----------|:------|:-------------|
-|  |     |         |  
+| Beginner's Guide to FastAPI & OpenAI ChatGPT API Integration | [Link](https://youtu.be/KVdP4SpWcc4?feature=shared) | The video offers a step-by-step tutorial on FastAPI and OpenAI's ChatGPT integration using Python. FastAPI is a high-performance web framework that's perfect for building APIs, and ChatGPT brings a layer of artificial intelligence into the mix. |
+| How to Integrate a Custom GPT Into Your Website (Step-by-step Guide) | [Link](https://youtu.be/SNwqkdhv1HQ?si=Mi2cfQZ2uyM0WyTc) | The video offers a step-by-step tutorial on a custom GPT integration on websites. Two different approaches have been depicted in the video so that both a beginner as well as those with some technical know-how could find it comfortable. |
