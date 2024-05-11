@@ -4,7 +4,7 @@ This project is an initiative undertaken by [API Dash](https://github.com/foss42
 
 ![gssoc-logo-1](https://github.com/foss42/awesome-generative-ai-apis/assets/1382619/670b651a-15d7-4869-a4d1-6613df09fa37)
 
-Contributors should go through the [Contributing Guide](https://github.com/foss42/awesome-generative-ai-apis/blob/main/CONTRIBUTING.md) to learn how to send across a PR.
+Contributors should go through the [Contributing Guide](https://github.com/foss42/awesome-generative-ai-apis/blob/main/CONTRIBUTING.md) to learn how to raise an issue and send across a PR.
 
 
 # Awesome Generative AI & LLM APIs
