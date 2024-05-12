@@ -27,11 +27,13 @@ You can start contributing by adding the following:
 
 ## GenAI APIs
 
-| Project Homepage    | API Docs Link  | Requires Auth Token (Y/N)  | Description (2 lines max)  |
-|:-----------|:------|:------|:-------------|
-| [OpenAI](https://openai.com/)| [Link](https://platform.openai.com/docs/api-reference) | Y | OpenAI APIs offer state-of-the-art GenAI models that can generate human-like text, answer questions, translate languages, generate and understand images, turn text to speech or speech to text thus empowering developers to create advanced AI-powered applications with ease. |
-| [Gemini](https://ai.google.dev/)| [Link](https://ai.google.dev/gemini-api/docs)  | Y | designed to understand and interact with multiple data types, including text, images, audio, and video. |
-| [Llama AI](https://www.llama-api.com/) | [Link](https://docs.llama-api.com/quickstart) | Y | Offers APIs to access Llama models to answer complex queries and generate text.|
+| Project Homepage       | API Docs Link                    | Requires Auth Token (Y/N) | Description (2 lines max)                                                                                                 |
+|:-----------------------|:---------------------------------|:--------------------------|:----------------------------------------------------------------------------------------------------------------------------|
+| [OpenAI](https://openai.com/)       | [Link](https://platform.openai.com/docs/api-reference)    | Y                         | OpenAI APIs offer state-of-the-art GenAI models that can generate human-like text, answer questions, translate languages, generate and understand images, turn text to speech or speech to text thus empowering developers to create advanced AI-powered applications with ease. |
+| [Gemini](https://ai.google.dev/)     | [Link](https://ai.google.dev/gemini-api/docs)             | Y                         | Designed to understand and interact with multiple data types, including text, images, audio, and video.                    |
+| [Llama AI](https://www.llama-api.com/) | [Link](https://docs.llama-api.com/quickstart)           | Y                         | Offers APIs to access Llama models to answer complex queries and generate text.                                             |
+| [Groq](https://groq.com/)           | [Link](https://console.groq.com/docs/quickstart)         | Y                         | Fastest Token Generation with Language Processing Units. Able to work on Open Source Models: Gemma-7b-lt, Llama3-70b-8192, Llama3-8b-8192, Mixtral-8x7b-32768. |
+
 
 ## GenAI API Integration Articles/Tutorials
 
