@@ -42,8 +42,6 @@ You can start contributing by adding the following:
 
 | Aritcle Title    | Link  | Summary (2 lines max)  |
 |:-----------|:------|:-------------|  
-| Article Title | Link | Summary |
-|---|---|---|
 | How to integrate generative AI into your applications | [Link](https://www.pluralsight.com/resources/blog/data/integrate-genai-applications-openai) | The article offers a detailed tutorial on accessing the OpenAI API, demonstrating methods via web API calls and Python's OpenAI library, enabling developers to integrate Generative AI effortlessly into their projects. |
 | Develop an LLM Application using OpenAI and Streamlit | [Link](https://www.geeksforgeeks.org/develop-an-llm-application-using-openai/) | This article provides a comprehensive guide to developing an LLM application using OpenAI's GPT models and the Streamlit framework. It covers API integration, token counting, response generation, and more, offering a practical tutorial for creating interactive language-driven tools. |
 | Getting Started with Groq API: The Fastest Inference Endpoint | [Link](https://www.analyticsvidhya.com/blog/2024/03/getting-started-with-groq-api/) | This article offers a comprehensive guide to getting started with the Groq API, known for its ultra-fast inference speeds. It covers Groq's innovative Language Processing Unit (LPU) technology, its impact on AI inference, and practical steps for leveraging the Groq API for real-time, low-latency AI tasks. |
