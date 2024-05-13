@@ -6,7 +6,6 @@ This project is an initiative undertaken by [API Dash](https://github.com/foss42
 
 Contributors should go through the [Contributing Guide](https://github.com/foss42/awesome-generative-ai-apis/blob/main/CONTRIBUTING.md) to learn how to raise an issue and send across a PR.
 
-
 # Awesome Generative AI & LLM APIs
 
 A curated list of useful Generative AI & LLM APIs for developers.
@@ -35,10 +34,12 @@ You can start contributing by adding the following:
 | [Groq](https://groq.com/) | [Link](https://console.groq.com/docs/quickstart) | Y | Fastest Token Generation with Language Processing Units. Able to work on Open Source Models: Gemma-7b-lt, Llama3-70b-8192, Llama3-8b-8192, Mixtral-8x7b-32768. |
 | [Databricks](https://docs.databricks.com/en/machine-learning/foundation-models/index.html) | [Link](https://docs.databricks.com/en/machine-learning/foundation-models/api-reference.html) | Y | Databricks supports Foundation Model APIs which allow you to access and query state-of-the-art open models. You can quickly and easily build applications that leverage a high-quality generative AI model without maintaining your own model deployment. |
 | [Cohere AI](https://cohere.com/) | [Link](https://docs.cohere.com/docs/chat-api) | Y | Cohere AI offers a chat API that enables developers to create conversational interfaces with ease, leveraging advanced natural language understanding capabilities. |
+| [DeepAI](https://deepai.org/) | [Link](https://deepai.org/docs) | Y | DeepAI is a user-friendly platform providing state-of-the-art AI tools & APIs that unlock and enhance creativity across industries, widely democratizing access to AI technologies for both developers and non-tech users. |
+| [Clarifai API](https://www.clarifai.com/) | [Link](https://docs.clarifai.com/api-guide/api-overview/) | Y | Clarifai offers access to various popular generative AI models (LLM, multimodal, image,  video). |
 
 ## GenAI API Integration Articles/Tutorials
 
-| Aritcle Title    | Link  | Summary (2 lines max)  |
+| Article Title    | Link  | Summary (2 lines max)  |
 |:-----------|:------|:-------------|  
 | How to integrate generative AI into your applications | [Link](https://www.pluralsight.com/resources/blog/data/integrate-genai-applications-openai) | The article offers a detailed tutorial on accessing the OpenAI API, demonstrating methods via web API calls and Python's OpenAI library, enabling developers to integrate Generative AI effortlessly into their projects. |
 
