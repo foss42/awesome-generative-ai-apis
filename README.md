@@ -22,6 +22,8 @@ Some of the applications of these APIs are:
 
 The goal of this project is to create a Generative AI & LLM API hub for developers so that they can create innovative applications, enhance user experiences, and drive progress in the AI field.
 
+You can start contributing by adding the following:
+
 ## GenAI APIs
 
 | Project Homepage    | API Docs Link  | Requires Auth Token (Y/N)  | Description (2 lines max)  |
