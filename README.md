@@ -6,7 +6,6 @@ This project is an initiative undertaken by [API Dash](https://github.com/foss42
 
 Contributors should go through the [Contributing Guide](https://github.com/foss42/awesome-generative-ai-apis/blob/main/CONTRIBUTING.md) to learn how to raise an issue and send across a PR.
 
-
 # Awesome Generative AI & LLM APIs
 
 A curated list of useful Generative AI & LLM APIs for developers.
@@ -23,8 +22,6 @@ Some of the applications of these APIs are:
 
 The goal of this project is to create a Generative AI & LLM API hub for developers so that they can create innovative applications, enhance user experiences, and drive progress in the AI field.
 
-You can start contributing by adding the following:
-
 ## GenAI APIs
 
 | Project Homepage    | API Docs Link  | Requires Auth Token (Y/N)  | Description (2 lines max)  |
@@ -33,9 +30,19 @@ You can start contributing by adding the following:
 | [Gemini](https://ai.google.dev/)| [Link](https://ai.google.dev/gemini-api/docs)  | Y | designed to understand and interact with multiple data types, including text, images, audio, and video. |
 | [Llama AI](https://www.llama-api.com/) | [Link](https://docs.llama-api.com/quickstart) | Y | Offers APIs to access Llama models to answer complex queries and generate text.|
 
+## Image Generative APIs
+
+| Project Homepage    | API Docs Link  | Requires Auth Token (Y/N)  | Description (2 lines max)  |
+|:-----------|:------|:------|:-------------|
+| [OpenAI DALL-E](https://openai.com/research/dall-e/)| [Link](https://beta.openai.com/docs/) | Y | OpenAI's DALL-E is known for generating images from textual descriptions, offering a wide range of creative possibilities. |
+| [DeepAI Image API](https://deepai.org/machine-learning-model/image-recognition-api) | [Link](https://deepai.org/machine-learning-model/image-recognition-api) | Y | DeepAI offers an Image API that provides functionalities such as image recognition, classification, moderation, and more. |
+| [Google Cloud Vision API](https://cloud.google.com/vision) | [Link](https://cloud.google.com/vision/docs) | Y | Google Cloud Vision API enables developers to understand the content of an image by detecting objects, faces, text, and landmarks, as well as performing image labeling and OCR. |
+| [Clarifai API](https://www.clarifai.com/) | [Link](https://docs.clarifai.com/api-guide/) | Y | Clarifai offers a powerful image and video recognition API with features like image classification, object detection, and custom model training. |
+| [Microsoft Azure Computer Vision API](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/) | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/) | Y | Microsoft Azure Computer Vision API provides capabilities for analyzing images, including image tagging, object detection, OCR, and more. |
+
 ## GenAI API Integration Articles/Tutorials
 
-| Aritcle Title    | Link  | Summary (2 lines max)  |
+| Article Title    | Link  | Summary (2 lines max)  |
 |:-----------|:------|:-------------|  
 | How to integrate generative AI into your applications | [Link](https://www.pluralsight.com/resources/blog/data/integrate-genai-applications-openai) | The article offers a detailed tutorial on accessing the OpenAI API, demonstrating methods via web API calls and Python's OpenAI library, enabling developers to integrate Generative AI effortlessly into their projects. |
 
