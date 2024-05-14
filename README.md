@@ -36,6 +36,8 @@ You can start contributing by adding the following:
 | [Cohere AI](https://cohere.com/) | [Link](https://docs.cohere.com/docs/chat-api) | Y | Cohere AI offers a chat API that enables developers to create conversational interfaces with ease, leveraging advanced natural language understanding capabilities. |
 | [DeepAI](https://deepai.org/) | [Link](https://deepai.org/docs) | Y | DeepAI is a user-friendly platform providing state-of-the-art AI tools & APIs that unlock and enhance creativity across industries, widely democratizing access to AI technologies for both developers and non-tech users. |
 | [Clarifai API](https://www.clarifai.com/) | [Link](https://docs.clarifai.com/api-guide/api-overview/) | Y | Clarifai offers access to various popular generative AI models (LLM, multimodal, image,  video). |
+| [Claude AI](https://www.anthropic.com/) | [Link](https://docs.anthropic.com/en/api/getting-started) | Y | Claude AI API offers powerful Anthropic Family of Models including Haiku, Sonet and Opus which can be used in variety of applications such as Code Generation, Advance Reasoning, Vision Analysis and Multilingual Processing. |
+| [HuggingFace API](https://huggingface.co/) | [Link](https://huggingface.co/docs/hub/security-tokens) | Y | HuggingFace provides access to many open source Generative AI models(Multimodal,Computer Vision, NLP, Audio), datasets and Spaces which are free to use via Access tokens |
 
 ## GenAI API Integration Articles/Tutorials
 
