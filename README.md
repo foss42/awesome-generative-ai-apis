@@ -36,6 +36,8 @@ You can start contributing by adding the following:
 | [Cohere AI](https://cohere.com/) | [Link](https://docs.cohere.com/docs/chat-api) | Y | Cohere AI offers a chat API that enables developers to create conversational interfaces with ease, leveraging advanced natural language understanding capabilities. |
 | [DeepAI](https://deepai.org/) | [Link](https://deepai.org/docs) | Y | DeepAI is a user-friendly platform providing state-of-the-art AI tools & APIs that unlock and enhance creativity across industries, widely democratizing access to AI technologies for both developers and non-tech users. |
 | [Clarifai API](https://www.clarifai.com/) | [Link](https://docs.clarifai.com/api-guide/api-overview/) | Y | Clarifai offers access to various popular generative AI models (LLM, multimodal, image,  video). |
+| [Mistral AI](https://www.clarifai.com/) | [Link](https://docs.mistral.ai/#operation/listModels) | Y | Mistral AI offers a Large Language Model (LLM) API that supports a wide range of text generation tasks. From creating chat completions to generating embeddings, Mistral's API allows for the customization of output through parameters like temperature and max tokens. This flexibility makes it suitable for a variety of applications, including chatbots, content creation, and more, providing developers with the tools to generate diverse and dynamic text. |
+
 
 ## GenAI API Integration Articles/Tutorials
 
