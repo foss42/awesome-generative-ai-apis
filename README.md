@@ -36,6 +36,8 @@ You can start contributing by adding the following:
 | [Cohere AI](https://cohere.com/) | [Link](https://docs.cohere.com/docs/chat-api) | Y | Cohere AI offers a chat API that enables developers to create conversational interfaces with ease, leveraging advanced natural language understanding capabilities. |
 | [DeepAI](https://deepai.org/) | [Link](https://deepai.org/docs) | Y | DeepAI is a user-friendly platform providing state-of-the-art AI tools & APIs that unlock and enhance creativity across industries, widely democratizing access to AI technologies for both developers and non-tech users. |
 | [Clarifai API](https://www.clarifai.com/) | [Link](https://docs.clarifai.com/api-guide/api-overview/) | Y | Clarifai offers access to various popular generative AI models (LLM, multimodal, image,  video). |
+| [Anthropic](https://www.clarifai.com/) | [Link](https://docs.anthropic.com/en/api/getting-started) | Y | Anthropic's API, featuring Claude, is designed to integrate sophisticated dialogue and creative content generation into any application.  |
+
 
 ## GenAI API Integration Articles/Tutorials
 
