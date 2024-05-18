@@ -36,6 +36,7 @@ You can start contributing by adding the following:
 | [Cohere AI](https://cohere.com/) | [Link](https://docs.cohere.com/docs/chat-api) | Y | Cohere AI offers a chat API that enables developers to create conversational interfaces with ease, leveraging advanced natural language understanding capabilities. |
 | [DeepAI](https://deepai.org/) | [Link](https://deepai.org/docs) | Y | DeepAI is a user-friendly platform providing state-of-the-art AI tools & APIs that unlock and enhance creativity across industries, widely democratizing access to AI technologies for both developers and non-tech users. |
 | [Clarifai API](https://www.clarifai.com/) | [Link](https://docs.clarifai.com/api-guide/api-overview/) | Y | Clarifai offers access to various popular generative AI models (LLM, multimodal, image,  video). |
+| [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio |
 
 ## GenAI API Integration Articles/Tutorials
 
