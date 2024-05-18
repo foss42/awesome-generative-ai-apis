@@ -36,8 +36,11 @@ You can start contributing by adding the following:
 | [Cohere AI](https://cohere.com/) | [Link](https://docs.cohere.com/docs/chat-api) | Y | Cohere AI offers a chat API that enables developers to create conversational interfaces with ease, leveraging advanced natural language understanding capabilities. |
 | [DeepAI](https://deepai.org/) | [Link](https://deepai.org/docs) | Y | DeepAI is a user-friendly platform providing state-of-the-art AI tools & APIs that unlock and enhance creativity across industries, widely democratizing access to AI technologies for both developers and non-tech users. |
 | [Clarifai API](https://www.clarifai.com/) | [Link](https://docs.clarifai.com/api-guide/api-overview/) | Y | Clarifai offers access to various popular generative AI models (LLM, multimodal, image,  video). |
+| [Anthropic](https://www.anthropic.com/) | [Link](https://docs.anthropic.com/en/api/getting-started) | Y | Anthropic is an AI safety and research company behind the powerful Claude 3 model family. |
+| [HuggingFace API](https://huggingface.co/) | [Link](https://huggingface.co/docs/api-inference/index) | Y | HuggingFace provides API access to many open source Generative AI models, datasets and Spaces which are free to use. |
 | [TextCortex](https://textcortex.com/)  |  [Link](https://docs.textcortex.com/api)  |  Y  |  TextCortex provides a highly-scalable Text Generation API that uses advanced NLP to produce diverse and refined content. |
 | [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
+
 
 ## GenAI API Integration Articles/Tutorials
 
