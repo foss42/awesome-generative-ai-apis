@@ -40,6 +40,7 @@ You can start contributing by adding the following:
 | [HuggingFace API](https://huggingface.co/) | [Link](https://huggingface.co/docs/api-inference/index) | Y | HuggingFace provides API access to many open source Generative AI models, datasets and Spaces which are free to use. |
 | [TextCortex](https://textcortex.com/)  |  [Link](https://docs.textcortex.com/api)  |  Y  |  TextCortex provides a highly-scalable Text Generation API that uses advanced NLP to produce diverse and refined content. |
 | [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
+| [Lovo AI](https://lovo.ai/) | [Link](https://docs.genny.lovo.ai/reference/intro/getting-started) | Y | LOVO offers advanced text to speech technologies to create high-quality audio and video content for marketing, advertising, eLearning, onboarding, and localization purposes. |
 
 
 ## GenAI API Integration Articles/Tutorials
