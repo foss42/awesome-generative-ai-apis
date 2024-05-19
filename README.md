@@ -40,6 +40,9 @@ You can start contributing by adding the following:
 | [HuggingFace API](https://huggingface.co/) | [Link](https://huggingface.co/docs/api-inference/index) | Y | HuggingFace provides API access to many open source Generative AI models, datasets and Spaces which are free to use. |
 | [TextCortex](https://textcortex.com/)  |  [Link](https://docs.textcortex.com/api)  |  Y  |  TextCortex provides a highly-scalable Text Generation API that uses advanced NLP to produce diverse and refined content. |
 | [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
+| [Tavus AI](https://www.tavus.io/ai-voice-api) | [Link](https://docs.tavusapi.com/sections/introduction) | Y | Tavus offers an AI voice API for converting text into lifelike speech. It’s suitable for applications like AI video generation, chatbots, and media editing |
+| [Eden AI](https://www.edenai.co/feature/text-to-speech-apis) | [Link](https://docs.edenai.co/docs/guetting-started) | Y | The Speech tool provided by Eden AI platform offers easy access to a variety of speech and audio analysis technologies from top-notch providers. It includes speech-to-text and text-to-speech functionalities, which could be used for speech recognition and speech synthesis, respectively. |
+
 
 
 ## GenAI API Integration Articles/Tutorials
