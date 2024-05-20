@@ -40,6 +40,7 @@ You can start contributing by adding the following:
 | [HuggingFace API](https://huggingface.co/) | [Link](https://huggingface.co/docs/api-inference/index) | Y | HuggingFace provides API access to many open source Generative AI models, datasets and Spaces which are free to use. |
 | [TextCortex](https://textcortex.com/)  |  [Link](https://docs.textcortex.com/api)  |  Y  |  TextCortex provides a highly-scalable Text Generation API that uses advanced NLP to produce diverse and refined content. |
 | [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
+| [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/) | Y | Mistral AI offers a Large Language Model (LLM) API that supports a wide range of text generation tasks. From creating chat completions to generating embeddings, Mistral's API allows for the customization of output through parameters like temperature and max tokens. This flexibility makes it suitable for a variety of applications, including chatbots, content creation, and more, providing developers with the tools to generate diverse and dynamic text. |
 
 
 ## GenAI API Integration Articles/Tutorials
