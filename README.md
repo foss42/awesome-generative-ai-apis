@@ -42,6 +42,7 @@ You can start contributing by adding the following:
 | [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
 | [Lovo AI](https://lovo.ai/) | [Link](https://docs.genny.lovo.ai/reference/intro/getting-started) | Y | Lovo lets you generate advanced AI voices for any use case. |
 | [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/api/) | Y | Mistral offers open and portable Gen AI models for multilingual, code generation, maths, and advanced reasoning capabilities |
+| [Jasper AI](https://www.jasper.ai/) | [Link](https://developers.jasper.ai/docs/getting-started-1) | Y | Jasper is a platform to assist marketers in creating, optimizing and publishing content creatively. It offers features for campaigns, brand voice and marketing. |
 
 ## GenAI API Integration Articles/Tutorials
 
