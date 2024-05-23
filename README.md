@@ -42,6 +42,7 @@ You can start contributing by adding the following:
 | [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
 | [Lovo AI](https://lovo.ai/) | [Link](https://docs.genny.lovo.ai/reference/intro/getting-started) | Y | Lovo lets you generate advanced AI voices for any use case. |
 | [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/api/) | Y | Mistral offers open and portable Gen AI models for multilingual, code generation, maths, and advanced reasoning capabilities |
+| [Perplexity AI](https://www.perplexity.ai/hub/about) | [Link](https://docs.perplexity.ai/docs/getting-started) | Y | Perplexity AI offers an API that allows developers to integrate its advanced search and natural language processing capabilities into their own applications. The API provides access to features such as natural language understanding, information retrieval, and summarization. It is designed to handle complex queries and deliver precise, context-aware results, making it suitable for enhancing user interactions in various digital products. |
 
 ## GenAI API Integration Articles/Tutorials
 
