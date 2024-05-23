@@ -42,14 +42,14 @@ You can start contributing by adding the following:
 | [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
 | [Lovo AI](https://lovo.ai/) | [Link](https://docs.genny.lovo.ai/reference/intro/getting-started) | Y | Lovo lets you generate advanced AI voices for any use case. |
 | [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/api/) | Y | Mistral offers open and portable Gen AI models for multilingual, code generation, maths, and advanced reasoning capabilities |
-| [Leonardo.AI](https://leonardo.ai) | [Link](https://docs.leonardo.ai/reference/) | Y | Leonardo AI is a powerful platform that uses artificial intelligence to help you easily create stunning images, art, and videos. It offers a wide range of tools, from generating images from text prompts to transforming simple sketches into intricate masterpieces.
+| [Leonardo AI](https://leonardo.ai) | [Link](https://docs.leonardo.ai/reference/createdataset) | Y | Leonardo AI lets you create production quality visual assets for your projects. |
 
 ## GenAI API Integration Articles/Tutorials
 
 | Article Title    | Link  | Summary (2 lines max)  |
 |:-----------|:------|:-------------|  
 | How to integrate generative AI into your applications | [Link](https://www.pluralsight.com/resources/blog/data/integrate-genai-applications-openai) | The article offers a detailed tutorial on accessing the OpenAI API, demonstrating methods via web API calls and Python's OpenAI library, enabling developers to integrate Generative AI effortlessly into their projects. |
-| AI Image Generator using Reactjs & Open Journey API | [Link](https://medium.com/@vikumch/ai-image-generator-using-reactjs-open-journey-api-8706d7063dae) | This article gives a detailed explanation on integrating Open Journey AI from Prompthero, providing the source code and sample of generated images. It uses React.js to build frontend of the image generative model. | 
+| AI Image Generator using Reactjs & Open Journey API | [Link](https://medium.com/@vikumch/ai-image-generator-using-reactjs-open-journey-api-8706d7063dae) | This article provides a tutorial on creating an image generator using react.js and Open Journey API from Prompthero. | 
 
 ## GenAI API Integration Youtube Videos
 
@@ -61,4 +61,4 @@ You can start contributing by adding the following:
 | Building an AI Mobile Application with Flutter and Google Gemini API | [Link](https://www.youtube.com/watch?v=oAmIqoGkfIY) | This video is a tutorial on building an AI mobile application using Flutter and Google Gemini API. | 
 | Groq Function Calling Llama 3: How to Integrate Custom API in AI App? | [Link](https://www.youtube.com/watch?v=7OAmeq-vwNc) | This video explores integrating custom APIs into AI applications using Groq functions and potentially Llama 3, a large language model. It might be the third part in a series on this topic. | 
 | Text Cortex REWRITING API ⚙️ AI Text Generator  |  [Link](https://www.youtube.com/watch?v=vIusOmfXhoA)  | The video is a tutorial on the Text Generation API (TextCortex). It guides through the process of integration, steps to access and perform tasks using TextCortex API.  |
-| Build An AI Image Generator Using OpenAI (Dall-E) API - The Server (NodeJS, Express) | [Link](https://www.youtube.com/watch?v=Iyj9y1XpM0A) | This video shows the implementation of Open AI's Dall-E, an image generation tool. It creates the backend application, using Node JS and Express. | 
+| Build An AI Image Generator Using OpenAI (Dall-E) API - The Server (NodeJS, Express) | [Link](https://www.youtube.com/watch?v=Iyj9y1XpM0A) | This video is a tutorial on creating an AI image generator using the Open AI API, Node JS and Express. | 
