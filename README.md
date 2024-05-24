@@ -55,6 +55,7 @@ You can start contributing by adding the following:
 |:-----------|:------|:-------------|  
 | How to integrate generative AI into your applications | [Link](https://www.pluralsight.com/resources/blog/data/integrate-genai-applications-openai) | The article offers a detailed tutorial on accessing the OpenAI API, demonstrating methods via web API calls and Python's OpenAI library, enabling developers to integrate Generative AI effortlessly into their projects. |
 | AI Image Generator using Reactjs & Open Journey API | [Link](https://medium.com/@vikumch/ai-image-generator-using-reactjs-open-journey-api-8706d7063dae) | This article provides a tutorial on creating an image generator using react.js and Open Journey API from Prompthero. | 
+| GPT-based zero-shot text classification with the OpenAI API | [Link](https://developer.dataiku.com/latest/tutorials/machine-learning/genai/nlp/gpt-zero-shot-clf) | This Tutorial provides the basics of using the OpenAI API within Dataiku and apply it using a GPT model for a text classification problem on movie reviews. | 
 
 ## GenAI API Integration Youtube Videos
 
