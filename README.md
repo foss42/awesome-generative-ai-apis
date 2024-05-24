@@ -41,14 +41,20 @@ You can start contributing by adding the following:
 | [TextCortex](https://textcortex.com/)  |  [Link](https://docs.textcortex.com/api)  |  Y  |  TextCortex provides a highly-scalable Text Generation API that uses advanced NLP to produce diverse and refined content. |
 | [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
 | [Lovo AI](https://lovo.ai/) | [Link](https://docs.genny.lovo.ai/reference/intro/getting-started) | Y | Lovo lets you generate advanced AI voices for any use case. |
-| [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/api/) | Y | Mistral offers open and portable Gen AI models for multilingual, code generation, maths, and advanced reasoning capabilities |
+| [Leonardo AI](https://leonardo.ai) | [Link](https://docs.leonardo.ai/reference/createdataset) | Y | Leonardo AI lets you create production quality visual assets for your projects. |
+| [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/api/) | Y | Mistral offers open and portable Gen AI models for multilingual, code generation, maths, and advanced reasoning capabilities. |
+| [Tavus AI](https://www.tavus.io/) | [Link](https://docs.tavusapi.com/api-reference/phoenix-replica-model/create-replica) | Y | Tavus offers an AI voice API converting text to video with features like voice cloning, lip-syncing, and script generation, realistic avatars and others. |
+| [Colossyan](https://www.colossyan.com/) | [Link](https://docs.colossyan.com/) | Y | Colossyan offers an AI API to create videos from text with AI avatars. |
+| [Synthesia](https://www.synthesia.io/) | [Link](https://docs.synthesia.io/docs/getting-started) | Y | Synthesia offers an API to turn text to video in minutes with AI avatars and voiceovers in 130+ languages. |
 | [Perplexity AI](https://www.perplexity.ai/hub/about) | [Link](https://docs.perplexity.ai/docs/getting-started) | Y | Perplexity AI offers an API that allows developers to integrate its advanced search and natural language processing capabilities into their own applications. The API provides access to features such as natural language understanding, information retrieval, and summarization. It is designed to handle complex queries and deliver precise, context-aware results, making it suitable for enhancing user interactions in various digital products. |
+
 
 ## GenAI API Integration Articles/Tutorials
 
 | Article Title    | Link  | Summary (2 lines max)  |
 |:-----------|:------|:-------------|  
 | How to integrate generative AI into your applications | [Link](https://www.pluralsight.com/resources/blog/data/integrate-genai-applications-openai) | The article offers a detailed tutorial on accessing the OpenAI API, demonstrating methods via web API calls and Python's OpenAI library, enabling developers to integrate Generative AI effortlessly into their projects. |
+| AI Image Generator using Reactjs & Open Journey API | [Link](https://medium.com/@vikumch/ai-image-generator-using-reactjs-open-journey-api-8706d7063dae) | This article provides a tutorial on creating an image generator using react.js and Open Journey API from Prompthero. | 
 
 ## GenAI API Integration Youtube Videos
 
@@ -60,3 +66,4 @@ You can start contributing by adding the following:
 | Building an AI Mobile Application with Flutter and Google Gemini API | [Link](https://www.youtube.com/watch?v=oAmIqoGkfIY) | This video is a tutorial on building an AI mobile application using Flutter and Google Gemini API. | 
 | Groq Function Calling Llama 3: How to Integrate Custom API in AI App? | [Link](https://www.youtube.com/watch?v=7OAmeq-vwNc) | This video explores integrating custom APIs into AI applications using Groq functions and potentially Llama 3, a large language model. It might be the third part in a series on this topic. | 
 | Text Cortex REWRITING API ⚙️ AI Text Generator  |  [Link](https://www.youtube.com/watch?v=vIusOmfXhoA)  | The video is a tutorial on the Text Generation API (TextCortex). It guides through the process of integration, steps to access and perform tasks using TextCortex API.  |
+| Build An AI Image Generator Using OpenAI (Dall-E) API - The Server (NodeJS, Express) | [Link](https://www.youtube.com/watch?v=Iyj9y1XpM0A) | This video is a tutorial on creating an AI image generator using the Open AI API, Node JS and Express. | 
