@@ -46,7 +46,7 @@ You can start contributing by adding the following:
 | [Tavus AI](https://www.tavus.io/) | [Link](https://docs.tavusapi.com/api-reference/phoenix-replica-model/create-replica) | Y | Tavus offers an AI voice API converting text to video with features like voice cloning, lip-syncing, and script generation, realistic avatars and others. |
 | [Colossyan](https://www.colossyan.com/) | [Link](https://docs.colossyan.com/) | Y | Colossyan offers an AI API to create videos from text with AI avatars. |
 | [Synthesia](https://www.synthesia.io/) | [Link](https://docs.synthesia.io/docs/getting-started) | Y | Synthesia offers an API to turn text to video in minutes with AI avatars and voiceovers in 130+ languages. |
-| [ElevenLabs](https://elevenlabs.io/) | [Link](https://elevenlabs.io/docs/api-reference/text-to-speech) | Y |ElevenLabs offers a cutting-edge voice generation API that stands out for its ability to produce highly realistic and natural-sounding voices. |
+| [ElevenLabs](https://elevenlabs.io/) | [Link](https://elevenlabs.io/docs/api-reference/getting-started) | Y |ElevenLabs offers a cutting-edge voice generation API that stands out for its ability to produce highly realistic and natural-sounding voices. |
 
 ## GenAI API Integration Articles/Tutorials
 
