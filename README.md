@@ -44,7 +44,6 @@ You can start contributing by adding the following:
 | [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/api/) | Y | Mistral offers open and portable Gen AI models for multilingual, code generation, maths, and advanced reasoning capabilities |
 | [Deepbrain AI](https://www.deepbrain.io/) | [Link](https://docs.deepbrain.io/aistudios/getting-started) | Y | DeepBrain AI offers natural text-to-speech capabilities & a powerful video generator that converts various inputs like text prompts, URLs, PDFs, and articles into engaging, professional-quality videos. |
 
-
 ## GenAI API Integration Articles/Tutorials
 
 | Article Title    | Link  | Summary (2 lines max)  |
