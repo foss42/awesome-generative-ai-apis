@@ -51,7 +51,7 @@ You can start contributing by adding the following:
 | [ElevenLabs](https://elevenlabs.io/) | [Link](https://elevenlabs.io/docs/api-reference/getting-started) | Y | ElevenLabs offers a voice generation API to produce highly realistic and natural-sounding voices. |
 | [Perplexity AI](https://www.perplexity.ai/hub/getting-started) | [Link](https://docs.perplexity.ai/docs/getting-started) | Y | Perplexity is like an AI-powered swiss army knife helping in information discovery, summarizing content, exploring new topics etc. |
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
-
+| [IBM_granite](https://research.ibm.com/blog/granite-code-models-open-source) | [link](https://github.com/ibm-granite/granite-code-models) | N | The Granite code models family consists of models ranging in size from 3 to 34 billion parameters, in both a base model and instruction-following model variants. These models have a range of uses, from complex application modernization tasks to on-device memory-constrained use cases.  
 ## GenAI API Integration Articles/Tutorials
 
 | Article Title    | Link  | Summary (2 lines max)  |
