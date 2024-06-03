@@ -51,6 +51,7 @@ You can start contributing by adding the following:
 | [ElevenLabs](https://elevenlabs.io/) | [Link](https://elevenlabs.io/docs/api-reference/getting-started) | Y | ElevenLabs offers a voice generation API to produce highly realistic and natural-sounding voices. |
 | [Perplexity AI](https://www.perplexity.ai/hub/getting-started) | [Link](https://docs.perplexity.ai/docs/getting-started) | Y | Perplexity is like an AI-powered swiss army knife helping in information discovery, summarizing content, exploring new topics etc. |
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
+| [Microsoft Azure AI](https://azure.microsoft.com/en-us/) | [Link](https://azure.microsoft.com/en-us/pricing/purchase-options/azure-account) | Y | Microsoft Azure AI provides a comprehensive set of AI services and tools, including language understanding, computer vision, and custom AI model creation. |
 
 ## GenAI API Integration Articles/Tutorials
 
