@@ -51,7 +51,7 @@ You can start contributing by adding the following:
 | [ElevenLabs](https://elevenlabs.io/) | [Link](https://elevenlabs.io/docs/api-reference/getting-started) | Y | ElevenLabs offers a voice generation API to produce highly realistic and natural-sounding voices. |
 | [Perplexity AI](https://www.perplexity.ai/hub/getting-started) | [Link](https://docs.perplexity.ai/docs/getting-started) | Y | Perplexity is like an AI-powered swiss army knife helping in information discovery, summarizing content, exploring new topics etc. |
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
-| [kairos AI] (https://www.kairos.com/) | [Link](https://face.kairos.com/docs/api) | Y | Kairos AI offers facial recognition and emotion analysis tools for image and video analysis. |
+| [kairos AI](https://www.kairos.com) | [Link](https://face.kairos.com/docs/api) | Y | Kairos AI offers facial recognition and emotion analysis tools for image and video analysis. |
 
 ## GenAI API Integration Articles/Tutorials
 
