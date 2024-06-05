@@ -53,6 +53,9 @@ You can start contributing by adding the following:
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watsonlets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
+| [Accenture Data and AI](https://www.accenture.com/in-en/services/data-ai) | [Link](https://www.accenture.com/in-en/services/data-ai) | Y | Accenture and BMW teamed up to create a new platform that uses generative AI to drive decisions across North America, accelerating productivity and experiences.|
+
+
 
 ## GenAI API Integration Articles/Tutorials
 
@@ -62,6 +65,7 @@ You can start contributing by adding the following:
 | AI Image Generator using Reactjs & Open Journey API | [Link](https://medium.com/@vikumch/ai-image-generator-using-reactjs-open-journey-api-8706d7063dae) | This article provides a tutorial on creating an image generator using react.js and Open Journey API from Prompthero. | 
 | Create your own GenAI Image Generator App like MidJourney or DALLE-2 | [Link](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej) | This article provides a tutorial on how to integrate AI-generated images into a React app using Segmind's text2Img API. | 
 | Introducing Google Gemini API: Discover the Power of the New Gemini AI Models | [Link](https://www.datacamp.com/tutorial/introducing-gemini-api) | This article provides a tutorial on how to use Gemini Python API and its various functions to build AI-enabled applications. | 
+| Generative AI and the impact on APIs and software development | [Link](https://blog.postman.com/generative-ai-and-the-impact-on-apis-and-software-development/) | This article provides a article on Generative AI and the impact on APIs and software development | 
 
 ## GenAI API Integration Youtube Videos
 
