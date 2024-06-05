@@ -53,6 +53,7 @@ You can start contributing by adding the following:
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watsonlets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
+| [Amazon SageMaker](https://docs.aws.amazon.com/sagemaker) | [Link](https://docs.aws.amazon.com/sagemaker/latest/APIReference/Welcome.html) | Y | Amazon SageMaker API facilitates seamless integration and management of machine learning models, empowering developers to deploy scalable AI solutions effortlessly.|
 
 ## GenAI API Integration Articles/Tutorials
 
