@@ -53,6 +53,9 @@ You can start contributing by adding the following:
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watsonlets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
+| [Google Gemma](https://ai.google.dev/gemma/) | [Link](https://ai.google.dev/gemma/docs) | Y | Gemma is a family of lightweight AI models by Google DeepMind, designed for text generation and customizable for specific tasks. Available in various sizes, they can be deployed on multiple platforms, including mobile devices and servers. |
+
+
 
 ## GenAI API Integration Articles/Tutorials
 
