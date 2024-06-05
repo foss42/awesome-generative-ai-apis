@@ -54,6 +54,7 @@ You can start contributing by adding the following:
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watsonlets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
 | [Amazon SageMaker](https://docs.aws.amazon.com/sagemaker) | [Link](https://docs.aws.amazon.com/sagemaker/latest/APIReference/Welcome.html) | Y | Amazon SageMaker API facilitates seamless integration and management of machine learning models, empowering developers to deploy scalable AI solutions effortlessly.|
+| [Gradiot GenAPI](https://docs.covalent.xyz/)) | [Link]([https://docs.aws.amazon.com/sagemaker/latest/APIReference/Welcome.html](https://docs.covalent.xyz/docs/user-documentation/tutorials/generativeai/)) | Y |  An open-source platform for building and sharing machine learning interfaces. While not strictly an API, Gradiot allows you to experiment with pre-trained generative models|
 
 ## GenAI API Integration Articles/Tutorials
 
