@@ -54,6 +54,7 @@ You can start contributing by adding the following:
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watsonlets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
 | [Accenture Data and AI](https://www.accenture.com/in-en/services/data-ai) | [Link](https://www.accenture.com/in-en/services/data-ai) | Y | Accenture and BMW teamed up to create a new platform that uses generative AI to drive decisions across North America, accelerating productivity and experiences.|
+| [DataRobot AIaaS](https://www.datarobot.com/) | [Link](https://www.datarobot.com/) | Y | DataRobot provides an AIaaS solution that streamlines the process of creating, implementing, and managing artificial intelligence and machine learning systems at scale. Its cornerstone feature is to automate machine learning.|
 
 
 
