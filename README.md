@@ -53,6 +53,7 @@ You can start contributing by adding the following:
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watsonlets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
+| [Amazon Titan](https://aws.amazon.com/bedrock/titan) | [Link](https://aws.amazon.com/bedrock/titan) | Y | Amazon Titan is a suite of foundational large language models (LLMs) developed by Amazon Web Services (AWS). It was introduced as part of AWS's broader effort to provide robust machine learning and artificial intelligence tools to businesses and developers. |
 
 ## GenAI API Integration Articles/Tutorials
 
