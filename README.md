@@ -53,8 +53,8 @@ You can start contributing by adding the following:
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watson lets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
-| [Replicate API](https://replicate.com/) | [Link](https://replicate.com/docs) | Y | Replicate provides an API platform for running, fine tuning  and deploying open source AI models at scale with minimal code. |
-| [Amazon Bedrock](https://aws.amazon.com/bedrock/) | [Link](https://docs.aws.amazon.com/bedrock/latest/APIReference/welcome.html) | Y |Amazon Bedrock offers a variety of top AI models from leading companies through a single API. It lets you experiment, customize, and deploy generative AI applications easily without managing any infrastructure. |
+| [Originality AI](https://originality.ai/) | [Link](https://docs.originality.ai/introduction) | Y | Originality AI lets you check for AI generated content and plagiarism, AI fact checker and  |
+
 
 
 
