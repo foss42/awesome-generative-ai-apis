@@ -53,6 +53,7 @@ You can start contributing by adding the following:
 | [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watsonlets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
+| [Google Cloud Translation API](https://cloud.google.com/translate?hl=en) | [Link](https://cloud.google.com/translate/docs) | Y | Cloud Translation uses Google's neural machine translation technology to dynamically translate text. It comes with both Basic and Advanced features. |
 
 ## GenAI API Integration Articles/Tutorials
 
