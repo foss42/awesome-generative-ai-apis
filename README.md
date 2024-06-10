@@ -54,6 +54,7 @@ You can start contributing by adding the following:
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watson lets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
 | [Writer](https://writer.com/) | [Link](https://dev.writer.com/api-reference/list-models) | Y | Writer provides APIs for generating, enhancing, and personalizing content. |
+| [Imagen on Vertex AI](https://cloud.google.com/vertex-ai/generative-ai/docs/image/overview) | [Link](https://cloud.google.com/vertex-ai/generative-ai/docs/reference/libraries) | Y | Imagen API is a part of Generative AI capabilities of Vertex AI. With Imagen on Vertex AI, developers can generate novel images, edit images with text prompt, upscale existing images, fine tune a model for image generation.
 
 ## GenAI API Integration Articles/Tutorials
 
