@@ -54,6 +54,7 @@ You can start contributing by adding the following:
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watson lets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
 | [Writer](https://writer.com/) | [Link](https://dev.writer.com/api-reference/list-models) | Y | Writer provides APIs for generating, enhancing, and personalizing content. |
+| [Vectra AI](https://www.vectra.ai/) | [Link](https://support.vectra.ai/s/topic/0TO6S000000J74ZWAS/documentation) | Y | Vectra AI focuses on using artificial intelligence and machine learning to detect and respond to cyber threats.It is the integrated signal for extended detection and response (XDR).|
 
 ## GenAI API Integration Articles/Tutorials
 
