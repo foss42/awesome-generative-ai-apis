@@ -55,6 +55,8 @@ You can start contributing by adding the following:
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watson lets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
 | [Writer](https://writer.com/) | [Link](https://dev.writer.com/api-reference/list-models) | Y | Writer provides APIs for generating, enhancing, and personalizing content. |
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed, making it a versatile tool for different NLP tasks. |
+| [PaLM 2](https://ai.google/discover/palm2/) | [Link](https://ai.google.dev/palm_docs/palm) | Y | Developed by Google, PaLM 2 provides a powerful and efficient model for various NLP tasks, including language understanding, code generation, and more, available through the MakerSuite. |
+
 
 ## GenAI API Integration Articles/Tutorials
 
