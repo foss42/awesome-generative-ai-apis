@@ -54,6 +54,7 @@ You can start contributing by adding the following:
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watson lets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
 | [Writer](https://writer.com/) | [Link](https://dev.writer.com/api-reference/list-models) | Y | Writer provides APIs for generating, enhancing, and personalizing content. |
+| [GooseAI](https://goose.ai/) | [Link](https://docs.goose.ai/) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed, making it a versatile tool for different NLP tasks. |
 
 ## GenAI API Integration Articles/Tutorials
 
