@@ -55,6 +55,7 @@ You can start contributing by adding the following:
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watson lets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
 | [Writer](https://writer.com/) | [Link](https://dev.writer.com/api-reference/list-models) | Y | Writer provides APIs for generating, enhancing, and personalizing content. |
 | [Together AI](https://www.together.ai/) | [Link](https://docs.together.ai/docs/quickstart) | Y | Together AI offers an API to query 50+ leading open-source models in a couple lines of code. |
+| [AI/ML Api](https://aimlapi.com/get-openai-api-key-with-ai-ml) | [Link](https://docs.aimlapi.com/) | Y |AI/ML API provides a suite of powerful AI functionalities, including text completion, image inference, speech to text, and text to speech. This API ensures effortless integration, robust performance, and secure API key management.|
 
 ## GenAI API Integration Articles/Tutorials
 
