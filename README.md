@@ -57,6 +57,8 @@ You can start contributing by adding the following:
 | [Together AI](https://www.together.ai/) | [Link](https://docs.together.ai/docs/quickstart) | Y | Together AI offers an API to query 50+ leading open-source models in a couple lines of code. |
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed. |
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
+| [Eden AI](https://www.edenai.co/) | [Link](https://docs.edenai.co/docs/getting-started-with-eden-ai?referral=website) | Y | Eden AI simplifies the use and integration of AI technologies by providing a unique API that gives access to the best AI APIs and a powerful management platform. |
+| [Amazon Titan](https://aws.amazon.com/bedrock/titan/) | [Link](https://docs.aws.amazon.com/bedrock/latest/userguide/titan-text-models.html) | Y | Amazon Titan  models are a pretrained by AWS on large datasets, making them powerful, general-purpose models built to support a variety of use cases. |
 
 ## GenAI API Integration Articles/Tutorials
 
