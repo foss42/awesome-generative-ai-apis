@@ -57,6 +57,7 @@ You can start contributing by adding the following:
 | [Together AI](https://www.together.ai/) | [Link](https://docs.together.ai/docs/quickstart) | Y | Together AI offers an API to query 50+ leading open-source models in a couple lines of code. |
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed. |
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
+| [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 
 ## GenAI API Integration Articles/Tutorials
 
