@@ -58,6 +58,8 @@ You can start contributing by adding the following:
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed. |
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
+| [AI/ML API]([https://openai.com/index/dall-e-2/]) | [Link](https://openai.com/index/dall-e-2/) | Y |  An API aggregator that  provides Creative design, concept art, and advertising from text Prompts. |
+
 
 ## GenAI API Integration Articles/Tutorials
 
