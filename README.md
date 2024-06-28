@@ -58,7 +58,7 @@ You can start contributing by adding the following:
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed. |
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
-| [Artbreeder](https://www.artbreeder.com/) | [Link](https://www.artbreeder.com/support) | Y | Artbreeder uses generative adversarial networks (GANs) to create and modify images.It's use cases are digital art,character design and genetic algorithms. |
+| [Roboflow](https://roboflow.com/) | [Link](https://docs.roboflow.com/) | Y |  RoboFlow is an AI API designed for building, training, and deploying computer vision models. It supports tasks like object detection, image classification, and segmentation. |
 
 
 ## GenAI API Integration Articles/Tutorials
