@@ -58,7 +58,6 @@ You can start contributing by adding the following:
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed. |
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
-| [OpenAI DALL-E](https://openai.com/index/dall-e-2/) | [Link](https://platform.openai.com/docs/guides/images/image-generation) | Y |  An API aggregator that  provides Creative design, concept art, and advertising from text Prompts. |
 | [Artbreeder](https://www.artbreeder.com/) | [Link](https://www.artbreeder.com/support) | Y | Artbreeder uses generative adversarial networks (GANs) to create and modify images.It's use cases are digital art,character design and genetic algorithms. |
 
 
