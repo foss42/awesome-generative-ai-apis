@@ -83,3 +83,4 @@ You can start contributing by adding the following:
 | About OpenAI Assistants API | [Link](https://youtu.be/qHPonmSX4Ms?si=EZ9C0-pOVLOImOoh) | Learn how to use the OpenAI's assistant API'S to build powerful AI assistants |
 | Langchain by Greg Kamradt (Data Indy) | [Link](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5) | The playlist covers Open AI and Langchain and their various use cases. |
 | LangChain Series by Krish Naik | [Link](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar) | The LangChain Series offers a comprehensive guide to building various LLM-based application projects using LangChain. |
+| Google Gemini series by Krish Naik | [Link](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb) | This Google gemini playlist offers a comprehensive guide to build various LLM-based applications using Gemini. |
