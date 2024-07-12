@@ -59,6 +59,7 @@ You can start contributing by adding the following:
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
+
 ## GenAI API Integration Articles/Tutorials
 
 | Article Title    | Link  | Summary (2 lines max)  |
@@ -67,8 +68,7 @@ You can start contributing by adding the following:
 | AI Image Generator using Reactjs & Open Journey API | [Link](https://medium.com/@vikumch/ai-image-generator-using-reactjs-open-journey-api-8706d7063dae) | This article provides a tutorial on creating an image generator using react.js and Open Journey API from Prompthero. | 
 | Create your own GenAI Image Generator App like MidJourney or DALLE-2 | [Link](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej) | This article provides a tutorial on how to integrate AI-generated images into a React app using Segmind's text2Img API. | 
 | Introducing Google Gemini API: Discover the Power of the New Gemini AI Models | [Link](https://www.datacamp.com/tutorial/introducing-gemini-api) | This article provides a tutorial on how to use Gemini Python API and its various functions to build AI-enabled applications. |
-| Generative AI Tutorial | [Link](https://www.w3schools.com/gen_ai/)| This article details how to use generative AI prompts. Some of the important points highlighting how generative AI can help boost productivity. |
-| The OpenAI API in Python| [Link](https://www.datacamp.com/cheat-sheet/the-open-ai-api-in-python)|This artical contain step to step guide how to use OpenAI API as a beginner with example code. |
+| The OpenAI API in Python | [Link](https://www.datacamp.com/cheat-sheet/the-open-ai-api-in-python) | Learn the basics on how to leverage OpenAI API. |
 | How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain. | 
 
 
