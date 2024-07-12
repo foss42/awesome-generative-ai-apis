@@ -71,7 +71,6 @@ You can start contributing by adding the following:
 | The OpenAI API in Python | [Link](https://www.datacamp.com/cheat-sheet/the-open-ai-api-in-python) | Learn the basics on how to leverage OpenAI API. |
 | How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain. | 
 
-
 ## GenAI API Integration Youtube Videos
 
 | Video Title    | Link  | Summary (2 lines max)  |
