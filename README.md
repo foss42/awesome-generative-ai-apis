@@ -68,7 +68,7 @@ You can start contributing by adding the following:
 | AI Image Generator using Reactjs & Open Journey API | [Link](https://medium.com/@vikumch/ai-image-generator-using-reactjs-open-journey-api-8706d7063dae) | This article provides a tutorial on creating an image generator using react.js and Open Journey API from Prompthero. | 
 | Create your own GenAI Image Generator App like MidJourney or DALLE-2 | [Link](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej) | This article provides a tutorial on how to integrate AI-generated images into a React app using Segmind's text2Img API. | 
 | Introducing Google Gemini API: Discover the Power of the New Gemini AI Models | [Link](https://www.datacamp.com/tutorial/introducing-gemini-api) | This article provides a tutorial on how to use Gemini Python API and its various functions to build AI-enabled applications. |
-| How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain with this tutorial on how to build llm applications| 
+| How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain. | 
 
 ## GenAI API Integration Youtube Videos
 
