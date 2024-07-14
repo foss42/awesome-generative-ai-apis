@@ -87,3 +87,4 @@ You can start contributing by adding the following:
 | LangChain Series by Krish Naik | [Link](https://www.youtube.com/playlist?list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar) | The LangChain Series offers a comprehensive guide to building various LLM-based application projects using LangChain. |
 | Google Gemini series by Krish Naik | [Link](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb) | This Google gemini playlist offers a comprehensive guide to build various LLM-based applications using Gemini. |
 | Spring Boot + OpenAI ChatGPT API Integration by JavaTechie | [Link](https://www.youtube.com/watch?v=HlDkuFy8xRM) | This tutorial by JavaTechie provides a step-by-step guide to integrating the OpenAI API with a Spring Boot application. |
+| How To Use ChatGPT With Python | [Link](https://www.youtube.com/watch?v=5MvYe44zen4) | This video shows how to integrate OpenAI's API in Python projects. |
