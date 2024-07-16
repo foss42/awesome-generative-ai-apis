@@ -59,6 +59,7 @@ You can start contributing by adding the following:
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
+| [Peltarion](https://thehub.io/startups/peltarion) | [Link](https://learn.microsoft.com/en-us/connectors/peltarion/) | Y | Platform for creating and deploying AI models. |
 
 ## GenAI API Integration Articles/Tutorials
 
