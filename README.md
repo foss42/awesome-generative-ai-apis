@@ -59,6 +59,7 @@ You can start contributing by adding the following:
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
+| [Microsoft Azure AI](https://azure.microsoft.com/en-us/services/cognitive-services/) | [Link](https://docs.microsoft.com/en-us/azure/cognitive-services/) | Y | Azure AI provides APIs for vision, speech, language, and decision-making AI services. |
 
 ## GenAI API Integration Articles/Tutorials
 
