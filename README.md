@@ -70,6 +70,7 @@ You can start contributing by adding the following:
 | Introducing Google Gemini API: Discover the Power of the New Gemini AI Models | [Link](https://www.datacamp.com/tutorial/introducing-gemini-api) | This article provides a tutorial on how to use Gemini Python API and its various functions to build AI-enabled applications. |
 | The OpenAI API in Python | [Link](https://www.datacamp.com/cheat-sheet/the-open-ai-api-in-python) | Learn the basics on how to leverage OpenAI API. |
 | How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain. | 
+| Creating a Personalized AI Email Assistant with GPT-3 API | [Link](https://zapier.com/blog/how-to-build-custom-email-assistant-gpt/) | This article provides a tutorial on how to integrate the GPT-3 API to build a personalized AI email assistant, enhancing email composition and management. | 
 
 ## GenAI API Integration Youtube Videos
 
