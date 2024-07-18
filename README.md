@@ -60,6 +60,7 @@ You can start contributing by adding the following:
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 | [Amazon Rekognition API](https://docs.aws.amazon.com/rekognition/latest/dg/API_Reference.html) | [Link](https://docs.aws.amazon.com/rekognition/latest/dg/what-is.html) | Y | Amazon Rekognition is a cloud-based image and video analysis service that makes it easy to add advanced computer vision capabilities to your applications. It is an easy-to-use API that can quickly analyze any image or video file.|
 | [Twilio AI API](https://www.twilio.com/docs/iam/ap) | [Link](https://www.twilio.com/docs/iam) | Y | The Twilio REST API allows you to query metadata about your account, phone numbers, calls, text messages, and recordings. |
+| [FaceAnalyzer AI API](https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai) | [Link](https://rapidapi.com/ai-engine-ai-engine-default/api/faceanalyzer-ai/playground/apiendpoint_0d5ac829-2fe2-47ea-9d66-1c172999dcb7) | Y | FaceAnalyzer AI API , you can easily detect faces in images and gain a deeper understanding of emotions, gender, and facial landmarks. It's state-of-the-art technology also enables you to recognize celebrities, compare faces from two different images, and even re-identify faces from your own custom face repository. |
 
 
 ## GenAI API Integration Articles/Tutorials
