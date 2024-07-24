@@ -60,6 +60,7 @@ You can start contributing by adding the following:
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
 | [Assembly API](https://www.assemblyai.com/) | [Link](https://www.assemblyai.com/docs/integrations) | Y | Built by AI experts, AssemblyAI’s Speech AI models include accurate speech-to-text for voice data (such as calls, virtual meetings, and podcasts), speaker detection. |
+| [QUIVR](https://www.quivr.com/) | [Link](https://www.quivr.com/) | Y | Turn private and enterprise knowledge into a personal AI assistant - learning and improving at every interaction. |
 
 ## GenAI API Integration Articles/Tutorials
 
