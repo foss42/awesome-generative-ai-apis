@@ -61,6 +61,8 @@ You can start contributing by adding the following:
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
 | [Assembly API](https://www.assemblyai.com/) | [Link](https://www.assemblyai.com/docs/integrations) | Y | Built by AI experts, AssemblyAI’s Speech AI models include accurate speech-to-text for voice data (such as calls, virtual meetings, and podcasts), speaker detection. |
 | [QUIVR](https://www.quivr.com/) | [Link](https://www.quivr.com/) | Y | Turn private and enterprise knowledge into a personal AI assistant - learning and improving at every interaction. |
+| [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features.|
+
 
 ## GenAI API Integration Articles/Tutorials
 
