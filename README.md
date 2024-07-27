@@ -60,6 +60,7 @@ You can start contributing by adding the following:
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
 | [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features.|
+| [WisdomPlan](https://wisdomplan.ai/) | [Link](https://wisdomplan.ai/) | Y | AI powered and community driven learning platform designed to guide learners towards achieving skill mastery and career success. |
 
 ## GenAI API Integration Articles/Tutorials
 
