@@ -59,7 +59,10 @@ You can start contributing by adding the following:
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
-| [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features.|
+| [PlayHT](https://play.ht/) | [Link](https://docs.play.ht/reference/api-getting-started) | Y | Play.ht provides realistic text-to-speech voices and audio generation for various applications. |
+| [Chooch AI](https://www.chooch.com/) | [Link](https://www.chooch.com/api/) | Y | Detects, processes, and instantly analyzes visual elements in video streams. |
+| [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features. |
+| [Astria AI] (https://www.astria.ai/) | [Link] (https://docs.astria.ai/docs/api/overview/) | Y | Astria is an API for fine-tuning and customization of generative image models. |
 | [Magic Slides](https://www.magicslides.app/) | [Link](https://www.magicslides.app/magicslides-api/docs) | Y | Professional Presentations in Seconds with AI. |
 
 ## GenAI API Integration Articles/Tutorials
