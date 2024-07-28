@@ -65,6 +65,7 @@ You can start contributing by adding the following:
 | [Astria AI] (https://www.astria.ai/) | [Link] (https://docs.astria.ai/docs/api/overview/) | Y | Astria is an API for fine-tuning and customization of generative image models. |
 | [Magic Slides](https://www.magicslides.app/) | [Link](https://www.magicslides.app/magicslides-api/docs) | Y | Professional Presentations in Seconds with AI. |
 | [Eden AI](https://www.edenai.co/) | [Link](https://www.edenai.co/post/best-generative-ai-apis) | Y | Eden AI offers diverse AI APIs. |
+| [Cohere Generate](https://cohere.com/) | [Link](https://docs.cohere.com/) | Y | Streamlines content creation process. |
 
 ## GenAI API Integration Articles/Tutorials
 
