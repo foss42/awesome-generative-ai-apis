@@ -59,6 +59,8 @@ You can start contributing by adding the following:
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
+| [PlayHT](https://play.ht/) | [Link](https://docs.play.ht/reference/api-getting-started) | Y | Play.ht provides realistic text-to-speech voices and audio generation for various applications. |
+| [Chooch AI](https://www.chooch.com/) | [Link](https://www.chooch.com/api/) | Y | Detects, processes, and instantly analyzes visual elements in video streams. |
 | [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features. |
 | [Astria AI] (https://www.astria.ai/) | [Link] (https://docs.astria.ai/docs/api/overview/) | Y | Astria is an API for fine-tuning and customization of generative image models. |
 
@@ -90,3 +92,4 @@ You can start contributing by adding the following:
 | Google Gemini series by Krish Naik | [Link](https://www.youtube.com/playlist?list=PLZoTAELRMXVNbDmGZlcgCA3a8mRQp5axb) | This Google gemini playlist offers a comprehensive guide to build various LLM-based applications using Gemini. |
 | Spring Boot + OpenAI ChatGPT API Integration by JavaTechie | [Link](https://www.youtube.com/watch?v=HlDkuFy8xRM) | This tutorial by JavaTechie provides a step-by-step guide to integrating the OpenAI API with a Spring Boot application. |
 | How To Use ChatGPT With Python | [Link](https://www.youtube.com/watch?v=5MvYe44zen4) | This video shows how to integrate OpenAI's API in Python projects. |
+| Build an AI Chatbot using RAG | [Link](https://www.youtube.com/watch?v=XctooiH0moI) | This video shows how to build an AI chatbot using retrieval augmented generation. |
