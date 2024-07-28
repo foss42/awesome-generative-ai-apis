@@ -40,7 +40,6 @@ You can start contributing by adding the following:
 | [HuggingFace API](https://huggingface.co/) | [Link](https://huggingface.co/docs/api-inference/index) | Y | HuggingFace provides API access to many open source Generative AI models, datasets and Spaces which are free to use. |
 | [TextCortex](https://textcortex.com/)  |  [Link](https://docs.textcortex.com/api)  |  Y  |  TextCortex provides a highly-scalable Text Generation API that uses advanced NLP to produce diverse and refined content. |
 | [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
-| [Astria AI] (https://www.astria.ai/) | [Link] (https://docs.astria.ai/docs/use-cases/finetuning-guide/) | Y | Astria is an API for fine-tuning and customization of generative image models. |
 | [Lovo AI](https://lovo.ai/) | [Link](https://docs.genny.lovo.ai/reference/intro/getting-started) | Y | Lovo lets you generate advanced AI voices for any use case. |
 | [Jasper AI](https://www.jasper.ai/) | [Link](https://developers.jasper.ai/docs/getting-started-1) | Y | Jasper assist marketers in creating, optimizing and publishing content effectively using AI. |
 | [Deepbrain AI](https://www.deepbrain.io/) | [Link](https://docs.deepbrain.io/aistudios/getting-started) | Y | DeepBrain AI offers natural text-to-speech capabilities & a powerful video generator that converts various inputs like text prompts, URLs, PDFs, and articles into engaging, professional-quality videos. |
@@ -60,7 +59,8 @@ You can start contributing by adding the following:
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
-| [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features.|
+| [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features. |
+| [Astria AI] (https://www.astria.ai/) | [Link] (https://docs.astria.ai/docs/api/overview/) | Y | Astria is an API for fine-tuning and customization of generative image models. |
 
 ## GenAI API Integration Articles/Tutorials
 
