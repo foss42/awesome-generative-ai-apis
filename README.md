@@ -64,6 +64,7 @@ You can start contributing by adding the following:
 | [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features. |
 | [Astria AI](https://www.astria.ai/) | [Link](https://docs.astria.ai/docs/api/overview/) | Y | Astria is an API for fine-tuning and customization of generative image models. |
 | [Magic Slides](https://www.magicslides.app/) | [Link](https://www.magicslides.app/magicslides-api/docs) | Y | Professional Presentations in Seconds with AI. |
+| [Codium](https://www.codium.ai/) | [Link](https://docs.codium.ai/) | Y | Quality-first AI code generation to help busy devs write, test and review code. |
 
 ## GenAI API Integration Articles/Tutorials
 
