@@ -94,3 +94,4 @@ You can start contributing by adding the following:
 | Spring Boot + OpenAI ChatGPT API Integration by JavaTechie | [Link](https://www.youtube.com/watch?v=HlDkuFy8xRM) | This tutorial by JavaTechie provides a step-by-step guide to integrating the OpenAI API with a Spring Boot application. |
 | How To Use ChatGPT With Python | [Link](https://www.youtube.com/watch?v=5MvYe44zen4) | This video shows how to integrate OpenAI's API in Python projects. |
 | Build an AI Chatbot using RAG | [Link](https://www.youtube.com/watch?v=XctooiH0moI) | This video shows how to build an AI chatbot using retrieval augmented generation. |
+| Gen AI Tutorial For Beginners | [Link](https://www.youtube.com/watch?v=d4yCWBGFCEs) | This Gen AI tutorial is a beginner-friendly mini-course covering the fundamentals of Generative AI. | 
