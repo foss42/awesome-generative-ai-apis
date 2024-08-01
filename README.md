@@ -64,6 +64,7 @@ You can start contributing by adding the following:
 | [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features. |
 | [Astria AI](https://www.astria.ai/) | [Link](https://docs.astria.ai/docs/api/overview/) | Y | Astria is an API for fine-tuning and customization of generative image models. |
 | [Magic Slides](https://www.magicslides.app/) | [Link](https://www.magicslides.app/magicslides-api/docs) | Y | Professional Presentations in Seconds with AI. |
+| [Deep Dream Generator](https://deepdreamgenerator.com/) | [Link](https://deepdreamgenerator.com/info) | Y | Generate psychedelic & dreamlike images from user-uploaded photos or text descriptions. |
 
 ## GenAI API Integration Articles/Tutorials
 
