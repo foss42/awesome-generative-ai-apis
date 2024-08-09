@@ -95,3 +95,4 @@ You can start contributing by adding the following:
 | How To Use ChatGPT With Python | [Link](https://www.youtube.com/watch?v=5MvYe44zen4) | This video shows how to integrate OpenAI's API in Python projects. |
 | Build an AI Chatbot using RAG | [Link](https://www.youtube.com/watch?v=XctooiH0moI) | This video shows how to build an AI chatbot using retrieval augmented generation. |
 | Let's build GPT: from scratch, in code, spelled out by Andrej Karpathy | [Link](https://youtu.be/kCc8FmEb1nY?si=gc2dhU96USvt90ik) | This video demonstrates building a Generatively Pretrained Transformer (GPT). |
+| 250 Unique APIs for your next Project | [Link](https://youtu.be/Y0QBmXEylP8?si=_79e7B0cKgTygBsK) | This video shows 250 unique APIs that we can use for next projects. |
