@@ -64,6 +64,7 @@ You can start contributing by adding the following:
 | [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features. |
 | [Astria AI](https://www.astria.ai/) | [Link](https://docs.astria.ai/docs/api/overview/) | Y | Astria is an API for fine-tuning and customization of generative image models. |
 | [Magic Slides](https://www.magicslides.app/) | [Link](https://www.magicslides.app/magicslides-api/docs) | Y | Professional Presentations in Seconds with AI. |
+| [Mubert](https://mubert.com/) | [Link](https://mubert2.docs.apiary.io/#) | Y | Generates personalized soundtracks. |
 
 ## GenAI API Integration Articles/Tutorials
 
