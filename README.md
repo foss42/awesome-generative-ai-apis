@@ -37,46 +37,26 @@ You can start contributing by adding the following:
 | [DeepAI](https://deepai.org/) | [Link](https://deepai.org/docs) | Y | DeepAI is a user-friendly platform providing state-of-the-art AI tools & APIs that unlock and enhance creativity across industries, widely democratizing access to AI technologies for both developers and non-tech users. |
 | [Clarifai API](https://www.clarifai.com/) | [Link](https://docs.clarifai.com/api-guide/api-overview/) | Y | Clarifai offers access to various popular generative AI models (LLM, multimodal, image,  video). |
 | [Anthropic](https://www.anthropic.com/) | [Link](https://docs.anthropic.com/en/api/getting-started) | Y | Anthropic is an AI safety and research company behind the powerful Claude 3 model family. |
+| [Replicate](https://replicate.com/) | [Link](https://replicate.com/docs/reference/http) | Y | Replicate lets you run machine learning models with a cloud API, from a community of developers and researchers. |
+| [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers a suite of generative AI models for image, language, audio, video, and 3D. |
 | [HuggingFace API](https://huggingface.co/) | [Link](https://huggingface.co/docs/api-inference/index) | Y | HuggingFace provides API access to many open source Generative AI models, datasets and Spaces which are free to use. |
-| [TextCortex](https://textcortex.com/)  |  [Link](https://docs.textcortex.com/api)  |  Y  |  TextCortex provides a highly-scalable Text Generation API that uses advanced NLP to produce diverse and refined content. |
-| [Stability AI](https://stability.ai/) | [Link](https://platform.stability.ai/docs/api-reference) | Y | Stability AI offers open-access AI models with minimal resource requirements in imaging, language, code and audio. |
-| [Lovo AI](https://lovo.ai/) | [Link](https://docs.genny.lovo.ai/reference/intro/getting-started) | Y | Lovo lets you generate advanced AI voices for any use case. |
-| [Jasper AI](https://www.jasper.ai/) | [Link](https://developers.jasper.ai/docs/getting-started-1) | Y | Jasper assist marketers in creating, optimizing and publishing content effectively using AI. |
-| [Deepbrain AI](https://www.deepbrain.io/) | [Link](https://docs.deepbrain.io/aistudios/getting-started) | Y | DeepBrain AI offers natural text-to-speech capabilities & a powerful video generator that converts various inputs like text prompts, URLs, PDFs, and articles into engaging, professional-quality videos. |
+| [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/api/) | Y | Mistral AI offers state-of-the-art language models with a simple API. |
+| [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. It offers simple URL-based endpoints, OpenAI-compatible interfaces, and React hooks for easy integration. |
 | [Leonardo AI](https://leonardo.ai) | [Link](https://docs.leonardo.ai/reference/createdataset) | Y | Leonardo AI lets you create production quality visual assets for your projects. |
-| [Mistral AI](https://mistral.ai/) | [Link](https://docs.mistral.ai/api/) | Y | Mistral offers open and portable Gen AI models for multilingual, code generation, maths, and advanced reasoning capabilities. |
-| [Tavus AI](https://www.tavus.io/) | [Link](https://docs.tavusapi.com/api-reference/phoenix-replica-model/create-replica) | Y | Tavus offers an AI voice API converting text to video with features like voice cloning, lip-syncing, and script generation, realistic avatars and others. |
-| [Colossyan](https://www.colossyan.com/) | [Link](https://docs.colossyan.com/) | Y | Colossyan offers an AI API to create videos from text with AI avatars. |
-| [Synthesia](https://www.synthesia.io/) | [Link](https://docs.synthesia.io/docs/getting-started) | Y | Synthesia offers an API to turn text to video in minutes with AI avatars and voiceovers in 130+ languages. |
+| [Midjourney](https://www.midjourney.com/) | [Link](https://docs.midjourney.com/docs/api) | Y | Midjourney is an AI image generation tool that creates images from natural language descriptions. |
 | [ElevenLabs](https://elevenlabs.io/) | [Link](https://elevenlabs.io/docs/api-reference/getting-started) | Y | ElevenLabs offers a voice generation API to produce highly realistic and natural-sounding voices. |
-| [Perplexity AI](https://www.perplexity.ai/hub/getting-started) | [Link](https://docs.perplexity.ai/docs/getting-started) | Y | Perplexity is like an AI-powered swiss army knife helping in information discovery, summarizing content, exploring new topics etc. |
-| [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
-| [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
-| [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watson lets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
-| [Writer](https://writer.com/) | [Link](https://dev.writer.com/api-reference/list-models) | Y | Writer provides APIs for generating, enhancing, and personalizing content. |
+| [Perplexity AI](https://www.perplexity.ai/) | [Link](https://docs.perplexity.ai/) | Y | Perplexity AI offers an API for answering questions with citations and references. |
 | [Together AI](https://www.together.ai/) | [Link](https://docs.together.ai/docs/quickstart) | Y | Together AI offers an API to query 50+ leading open-source models in a couple lines of code. |
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed. |
-| [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
-| [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
-| [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
-| [PlayHT](https://play.ht/) | [Link](https://docs.play.ht/reference/api-getting-started) | Y | Play.ht provides realistic text-to-speech voices and audio generation for various applications. |
-| [Chooch AI](https://www.chooch.com/) | [Link](https://www.chooch.com/api/) | Y | Detects, processes, and instantly analyzes visual elements in video streams. |
-| [Clipdrop](https://clipdrop.co/) | [Link](https://clipdrop.co/apis/docs) | Y |  ClipDrop offers APIs for image upscaling, background removal, and other image enhancement features. |
+| [Aleph Alpha](https://www.aleph-alpha.com/) | [Link](https://docs.aleph-alpha.com/) | Y | Aleph Alpha offers a range of large language models with multilingual capabilities. |
+| [Writesonic](https://writesonic.com/) | [Link](https://docs.writesonic.com/) | Y | Writesonic provides APIs for AI-powered content creation, including blog posts, ads, and product descriptions. |
 | [Astria AI](https://www.astria.ai/) | [Link](https://docs.astria.ai/docs/api/overview/) | Y | Astria is an API for fine-tuning and customization of generative image models. |
 | [Magic Slides](https://www.magicslides.app/) | [Link](https://www.magicslides.app/magicslides-api/docs) | Y | Professional Presentations in Seconds with AI. |
-| [Mubert](https://mubert.com/) | [Link](https://mubert2.docs.apiary.io/#) | Y | Generates personalized soundtracks. |
-| [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
-
-## GenAI API Integration Articles/Tutorials
-
-| Article Title    | Link  | Summary (2 lines max)  |
-|:-----------|:------|:-------------|  
-| How to integrate generative AI into your applications | [Link](https://www.pluralsight.com/resources/blog/data/integrate-genai-applications-openai) | The article offers a detailed tutorial on accessing the OpenAI API, demonstrating methods via web API calls and Python's OpenAI library, enabling developers to integrate Generative AI effortlessly into their projects. |
-| AI Image Generator using Reactjs & Open Journey API | [Link](https://medium.com/@vikumch/ai-image-generator-using-reactjs-open-journey-api-8706d7063dae) | This article provides a tutorial on creating an image generator using react.js and Open Journey API from Prompthero. | 
-| Create your own GenAI Image Generator App like MidJourney or DALLE-2 | [Link](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej) | This article provides a tutorial on how to integrate AI-generated images into a React app using Segmind's text2Img API. | 
-| Introducing Google Gemini API: Discover the Power of the New Gemini AI Models | [Link](https://www.datacamp.com/tutorial/introducing-gemini-api) | This article provides a tutorial on how to use Gemini Python API and its various functions to build AI-enabled applications. |
-| The OpenAI API in Python | [Link](https://www.datacamp.com/cheat-sheet/the-open-ai-api-in-python) | Learn the basics on how to leverage OpenAI API. |
-| How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain. | 
+| [Runway ML](https://runwayml.com/) | [Link](https://docs.runwayml.com/) | Y | Runway offers APIs for AI-powered video generation, editing, and visual effects. |
+| [Synthesia](https://www.synthesia.io/) | [Link](https://docs.synthesia.io/) | Y | Synthesia provides an API for creating AI-generated videos with virtual presenters. |
+| [Descript](https://www.descript.com/) | [Link](https://www.descript.com/api) | Y | Descript offers APIs for AI-powered audio and video editing, including transcription and voice cloning. |
+| [Pictory](https://pictory.ai/) | [Link](https://pictory.ai/api-documentation) | Y | Pictory provides APIs for creating videos from text, including automatic B-roll generation. |
+| [Deepgram](https://deepgram.com/) | [Link](https://developers.deepgram.com/) | Y | Deepgram offers APIs for speech recognition and audio intelligence. |
 
 ## GenAI API Integration Youtube Videos
 
