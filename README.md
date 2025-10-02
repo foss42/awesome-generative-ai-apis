@@ -67,6 +67,7 @@ You can start contributing by adding the following:
 | [Mubert](https://mubert.com/) | [Link](https://mubert2.docs.apiary.io/#) | Y | Generates personalized soundtracks. |
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
+| [Amazon Nova](https://aws.amazon.com/ai/generative-ai/nova/) | [Link](https://docs.aws.amazon.com/nova/latest/userguide/what-is-nova.html) | Y | Nova accelerates AI innovation across modalities and capabilities - including text, image, video, speech, and agentic AI.
 
 ## GenAI API Integration Articles/Tutorials
 
