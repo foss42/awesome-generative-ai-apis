@@ -69,6 +69,7 @@ You can start contributing by adding the following:
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Y | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [Glio](https://glio.io/) | [Link](https://glio.io/docs/api/) | Y | Unified API for the most cost-effective access to 50+ SOTA models. Kling, NanoBanana, Sora2, Veo3, Suno, ElevenLabs and more. Pay-per-use, no subscriptions. |
 
 
 ## GenAI API Integration Articles/Tutorials
