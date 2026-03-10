@@ -10,7 +10,7 @@ Contributors should go through the [Contributing Guide](https://github.com/foss4
 
 A curated list of useful Generative AI & LLM APIs for developers.
 
-Generative AI APIs allow developers to integrate generative models into their applications without building the models from scratch. These APIs provide an interface for generating text, images, or other content. They also include LLM APIs that provide access to pre-trained language models for various tasks.
+Generative AI APIs allow developers to integrate generative models into their applications without building the models from scratch. These APIs provide an interface for generating text, images, or other content. They also include LLM APIs that provide access to pre-trained language models forh various tasks.
 
 Some of the applications of these APIs are:
 - Content Creation for blogs, social media, and marketing
@@ -69,10 +69,10 @@ You can start contributing by adding the following:
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Y | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [Prompeteer.ai](https://prompeteer.ai) | [Link](https://prompeteer.ai/connect) | Y | Prompeteer.ai provides a REST API to generate, score, and optimize AI prompts for 140+ platforms. Features Prompt Score quality analysis across 16 dimensions and PromptDrive auto-save cloud library. |
 
 
 ## GenAI API Integration Articles/Tutorials
-
 | Article Title    | Link  | Summary (2 lines max)  |
 |:-----------|:------|:-------------|  
 | How to integrate generative AI into your applications | [Link](https://www.pluralsight.com/resources/blog/data/integrate-genai-applications-openai) | The article offers a detailed tutorial on accessing the OpenAI API, demonstrating methods via web API calls and Python's OpenAI library, enabling developers to integrate Generative AI effortlessly into their projects. |
