@@ -71,6 +71,8 @@ You can start contributing by adding the following:
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
 
 
+| [Arch Tools](https://archtools.dev/) | [Link](https://archtools.dev/docs) | Y | The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible. |
+
 ## GenAI API Integration Articles/Tutorials
 
 | Article Title    | Link  | Summary (2 lines max)  |
