@@ -30,7 +30,6 @@ You can start contributing by adding the following:
 |:-----------|:------|:------|:-------------|
 | [OpenAI](https://openai.com/)| [Link](https://platform.openai.com/docs/api-reference) | Y | OpenAI APIs offer state-of-the-art GenAI models that can generate human-like text, answer questions, translate languages, generate and understand images, turn text to speech or speech to text thus empowering developers to create advanced AI-powered applications with ease. |
 | [Gemini](https://ai.google.dev/)| [Link](https://ai.google.dev/gemini-api/docs)  | Y | designed to understand and interact with multiple data types, including text, images, audio, and video. |
-| [EvoLink](https://evolink.ai/) | [Link](https://evolink.ai/docs) | Y | Unified AI API gateway for 40+ models including video generation ([Seedance 2.0 API guide](https://seedance2api.app), Sora 2, Veo 3.1), image generation, LLMs, and AI music. One API key, save 20-70% on AI costs. |
 | [Llama AI](https://www.llama-api.com/) | [Link](https://docs.llama-api.com/quickstart) | Y | Offers APIs to access Llama models to answer complex queries and generate text.|
 | [Groq](https://groq.com/) | [Link](https://console.groq.com/docs/quickstart) | Y | Fastest Token Generation with Language Processing Units. Able to work on Open Source Models: Gemma-7b-lt, Llama3-70b-8192, Llama3-8b-8192, Mixtral-8x7b-32768. |
 | [Databricks](https://docs.databricks.com/en/machine-learning/foundation-models/index.html) | [Link](https://docs.databricks.com/en/machine-learning/foundation-models/api-reference.html) | Y | Databricks supports Foundation Model APIs which allow you to access and query state-of-the-art open models. You can quickly and easily build applications that leverage a high-quality generative AI model without maintaining your own model deployment. |
@@ -71,6 +70,7 @@ You can start contributing by adding the following:
 | [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Y | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
 
+| [EvoLink](https://evolink.ai/) | [Link](https://evolink.ai/docs) | Y | Unified AI API gateway for 40+ models including video generation ([Seedance 2.0 API guide](https://seedance2api.app), Sora 2, Veo 3.1), image generation, LLMs, and AI music. One API key, save 20-70% on AI costs. |
 
 ## GenAI API Integration Articles/Tutorials
 
