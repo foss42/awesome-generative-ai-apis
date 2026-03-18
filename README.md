@@ -68,6 +68,7 @@ You can start contributing by adding the following:
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api) | [Link](https://agent-gateway-kappa.vercel.app/v1/agent-llm/docs) | N | Unified LLM gateway — route to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through one OpenAI-compatible API. BYO keys, response caching, auto retries. 24+ models. |
 
 ## AI Gateway/Aggregator
 
