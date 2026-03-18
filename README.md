@@ -69,6 +69,7 @@ You can start contributing by adding the following:
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
 
+| [EvoLink](https://evolink.ai/) | [Link](https://evolink.ai/docs) | Y | Unified AI API gateway for 40+ models including video generation ([Seedance 2.0 API guide](https://seedance2api.app), Sora 2, Veo 3.1), image generation, LLMs, and AI music. One API key, save 20-70% on AI costs. |
 
 ## AI Gateway/Aggregator
 
