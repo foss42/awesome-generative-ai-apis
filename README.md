@@ -68,7 +68,7 @@ You can start contributing by adding the following:
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
-| [Glio](https://glio.io/) | [Link](https://glio.io/docs/api/) | Y | Unified API for the most cost-effective access to 50+ SOTA models. Kling, NanoBanana, Sora2, Veo3, Suno, ElevenLabs and more |
+
 
 ## AI Gateway
 
@@ -76,7 +76,7 @@ You can start contributing by adding the following:
 |:-----------|:------|:-------------|
 | [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints |
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Link](https://github.com/diegosouzapw/OmniRoute) | Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers via OpenAI-compatible API |
-
+| [Glio](https://glio.io/) | [Link](https://glio.io/docs/api/) | Unified API for the most cost-effective access to 50+ SOTA models. Kling, NanoBanana, Sora2, Veo3, Suno, ElevenLabs and more |
 
 ## GenAI API Integration Articles/Tutorials
 
