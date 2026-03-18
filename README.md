@@ -34,7 +34,6 @@ You can start contributing by adding the following:
 | [Groq](https://groq.com/) | [Link](https://console.groq.com/docs/quickstart) | Y | Fastest Token Generation with Language Processing Units. Able to work on Open Source Models: Gemma-7b-lt, Llama3-70b-8192, Llama3-8b-8192, Mixtral-8x7b-32768. |
 | [Databricks](https://docs.databricks.com/en/machine-learning/foundation-models/index.html) | [Link](https://docs.databricks.com/en/machine-learning/foundation-models/api-reference.html) | Y | Databricks supports Foundation Model APIs which allow you to access and query state-of-the-art open models. You can quickly and easily build applications that leverage a high-quality generative AI model without maintaining your own model deployment. |
 | [Cohere AI](https://cohere.com/) | [Link](https://docs.cohere.com/docs/chat-api) | Y | Cohere AI offers a chat API that enables developers to create conversational interfaces with ease, leveraging advanced natural language understanding capabilities. |
-| [deAPI.ai](https://deapi.ai/) | [Link](https://docs.deapi.ai/) | Y | Unified AI inference API on decentralized GPU infrastructure — image generation (Flux), TTS, transcription (Whisper), video generation, OCR, upscaling, background removal, and embeddings through a single endpoint. |
 | [DeepAI](https://deepai.org/) | [Link](https://deepai.org/docs) | Y | DeepAI is a user-friendly platform providing state-of-the-art AI tools & APIs that unlock and enhance creativity across industries, widely democratizing access to AI technologies for both developers and non-tech users. |
 | [Clarifai API](https://www.clarifai.com/) | [Link](https://docs.clarifai.com/api-guide/api-overview/) | Y | Clarifai offers access to various popular generative AI models (LLM, multimodal, image,  video). |
 | [Anthropic](https://www.anthropic.com/) | [Link](https://docs.anthropic.com/en/api/getting-started) | Y | Anthropic is an AI safety and research company behind the powerful Claude 3 model family. |
@@ -78,6 +77,7 @@ You can start contributing by adding the following:
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Link](https://github.com/diegosouzapw/OmniRoute) | Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers via OpenAI-compatible API |
 | [Glio](https://glio.io/) | [Link](https://glio.io/docs/api/) | Unified API for the most cost-effective access to 50+ SOTA models. Kling, NanoBanana, Sora2, Veo3, Suno, ElevenLabs and more |
 | [EvoLink](https://evolink.ai/) | [Link](https://evolink.ai/docs) | Unified AI API gateway for 40+ models including video generation (Seedance 2.0, Sora 2, Veo 3.1), image generation, LLMs, and AI music |
+| [deAPI.ai](https://deapi.ai/) | [Link](https://docs.deapi.ai/) | Y | Unified AI inference API on decentralized GPU infrastructure — image generation (Flux), TTS, transcription (Whisper), video generation, OCR, upscaling, background removal, and embeddings |
 
 ## GenAI API Integration Articles/Tutorials
 
