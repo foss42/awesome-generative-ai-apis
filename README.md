@@ -58,7 +58,6 @@ You can start contributing by adding the following:
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed. |
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
-| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Link](https://github.com/diegosouzapw/OmniRoute) | N | Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers via OpenAI-compatible API. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
 | [PlayHT](https://play.ht/) | [Link](https://docs.play.ht/reference/api-getting-started) | Y | Play.ht provides realistic text-to-speech voices and audio generation for various applications. |
 | [Chooch AI](https://www.chooch.com/) | [Link](https://www.chooch.com/api/) | Y | Detects, processes, and instantly analyzes visual elements in video streams. |
@@ -68,8 +67,14 @@ You can start contributing by adding the following:
 | [Mubert](https://mubert.com/) | [Link](https://mubert2.docs.apiary.io/#) | Y | Generates personalized soundtracks. |
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
-| [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Y | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+
+## AI Gateway
+
+| Project Homepage    | Docs Link  | Description (2 lines max)  |
+|:-----------|:------|:-------------|
+| [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints |
+| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Link](https://github.com/diegosouzapw/OmniRoute) | Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers via OpenAI-compatible API |
 
 
 ## GenAI API Integration Articles/Tutorials
