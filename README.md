@@ -70,7 +70,7 @@ You can start contributing by adding the following:
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
 
 
-## AI Gateway
+## AI Gateway/Aggregator
 
 | Project Homepage    | Docs Link  | Description (2 lines max)  |
 |:-----------|:------|:-------------|
