@@ -89,6 +89,8 @@ You can start contributing by adding the following:
 | [Humanizer PRO](https://texthumanizer.pro) | [Link](https://github.com/khadinakbaronline/humanizer-pro-mcp) | Humanizer PRO API transforms AI-generated text into natural human-like writing and provides AI detection analysis tools |
 | [Prompeteer.ai](https://prompeteer.ai) | [Link](https://prompeteer.ai/connect) | REST API to generate, score, and optimize AI prompts for 140+ platforms. Features Prompt Score quality analysis across 16 dimensions and PromptDrive auto-save cloud library |
 
+| [Arch Tools](https://archtools.dev/) | [Link](https://archtools.dev/docs) | Y | The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible. |
+
 ## GenAI API Integration Articles/Tutorials
 
 | Article Title    | Link  | Summary (2 lines max)  |
