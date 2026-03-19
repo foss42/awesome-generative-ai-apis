@@ -67,14 +67,26 @@ You can start contributing by adding the following:
 | [Mubert](https://mubert.com/) | [Link](https://mubert2.docs.apiary.io/#) | Y | Generates personalized soundtracks. |
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
-| [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Y | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+
+## AI Gateway/Aggregator
+
+| Project Homepage    | Docs Link  | Description (2 lines max)  |
+|:-----------|:------|:-------------|
+| [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints |
+| [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Link](https://github.com/diegosouzapw/OmniRoute) | Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers via OpenAI-compatible API |
+| [Glio](https://glio.io/) | [Link](https://glio.io/docs/api/) | Unified API for the most cost-effective access to 50+ SOTA models. Kling, NanoBanana, Sora2, Veo3, Suno, ElevenLabs and more |
+| [EvoLink](https://evolink.ai/) | [Link](https://evolink.ai/docs) | Unified AI API gateway for 40+ models including video generation (Seedance 2.0, Sora 2, Veo 3.1), image generation, LLMs, and AI music |
+| [deAPI.ai](https://deapi.ai/) | [Link](https://docs.deapi.ai/) | Unified AI inference API on decentralized GPU infrastructure — image generation (Flux), TTS, transcription (Whisper), video generation, OCR, upscaling, background removal, and embeddings |
+| [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api) | [Link](https://agent-gateway-kappa.vercel.app/v1/agent-llm/docs) | Unified LLM gateway — route to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through one OpenAI-compatible API. BYOK, response caching, auto retries. 24+ models |
+| [PixelAPI](https://pixelapi.dev) | [Link](https://pixelapi.dev/docs) | Pay-per-use AI image API offering SDXL, FLUX image generation, background removal, and 4x upscaling. Python and JS SDKs available. |
 
 ## Other AI Tools
 
 | Project Homepage    | Docs | Description (2 lines max)  |
 |:-----------|:------|:-------------|
 | [GEOScore](https://geoscoreai.com) | [Link](https://geoscoreai.com/tools/robots-txt-generator) | Free AI search visibility scanner that checks if your site can be found by ChatGPT, Perplexity, Claude & Gemini. Includes AI Robots.txt Generator and AI Crawler Checker |
+
 
 ## GenAI API Integration Articles/Tutorials
 
