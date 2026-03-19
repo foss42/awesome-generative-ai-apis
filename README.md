@@ -81,6 +81,13 @@ You can start contributing by adding the following:
 | [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api) | [Link](https://agent-gateway-kappa.vercel.app/v1/agent-llm/docs) | Unified LLM gateway — route to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through one OpenAI-compatible API. BYOK, response caching, auto retries. 24+ models |
 | [PixelAPI](https://pixelapi.dev) | [Link](https://pixelapi.dev/docs) | Pay-per-use AI image API offering SDXL, FLUX image generation, background removal, and 4x upscaling. Python and JS SDKs available. |
 
+## Other AI Tools
+
+| Project Homepage    | Docs | Description (2 lines max)  |
+|:-----------|:------|:-------------|
+| [GEOScore](https://geoscoreai.com) | [Link](https://geoscoreai.com/tools/robots-txt-generator) | Free AI search visibility scanner that checks if your site can be found by ChatGPT, Perplexity, Claude & Gemini. Includes AI Robots.txt Generator and AI Crawler Checker |
+
+
 ## GenAI API Integration Articles/Tutorials
 
 | Article Title    | Link  | Summary (2 lines max)  |
