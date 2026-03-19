@@ -73,6 +73,7 @@ You can start contributing by adding the following:
 
 
 ## GenAI API Integration Articles/Tutorials
+
 | Article Title    | Link  | Summary (2 lines max)  |
 |:-----------|:------|:-------------|  
 | How to integrate generative AI into your applications | [Link](https://www.pluralsight.com/resources/blog/data/integrate-genai-applications-openai) | The article offers a detailed tutorial on accessing the OpenAI API, demonstrating methods via web API calls and Python's OpenAI library, enabling developers to integrate Generative AI effortlessly into their projects. |
