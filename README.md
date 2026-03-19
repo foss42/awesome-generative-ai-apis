@@ -86,7 +86,7 @@ You can start contributing by adding the following:
 | Project Homepage    | Docs | Description (2 lines max)  |
 |:-----------|:------|:-------------|
 | [GEOScore](https://geoscoreai.com) | [Link](https://geoscoreai.com/tools/robots-txt-generator) | Free AI search visibility scanner that checks if your site can be found by ChatGPT, Perplexity, Claude & Gemini. Includes AI Robots.txt Generator and AI Crawler Checker |
-
+| [Humanizer PRO](https://texthumanizer.pro) | [Link](https://github.com/khadinakbaronline/humanizer-pro-mcp) | Humanizer PRO API transforms AI-generated text into natural human-like writing and provides AI detection analysis tools |
 
 ## GenAI API Integration Articles/Tutorials
 
