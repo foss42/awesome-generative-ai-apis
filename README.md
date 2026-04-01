@@ -67,6 +67,7 @@ You can start contributing by adding the following:
 | [Mubert](https://mubert.com/) | [Link](https://mubert2.docs.apiary.io/#) | Y | Generates personalized soundtracks. |
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
+| [launch.pics](https://launch.pics) | [Link](https://launch.pics/api/) | N | Free AI image processing API with 39 endpoints for resizing, conversion, optimization, and more. Visual workflow builder included, no signup required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
 
 ## AI Gateway/Aggregator
