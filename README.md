@@ -68,6 +68,8 @@ You can start contributing by adding the following:
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [Not Human Search](https://nothumansearch.ai/) | [Link](https://nothumansearch.ai/docs) | N | Agent-first search engine indexing 9,000+ AI-accessible tools. REST API and MCP server for discovering tools with APIs, MCP endpoints, and structured data. |
+| [AI Dev Jobs](https://aidevboard.com/) | [Link](https://aidevboard.com/docs) | N | AI/ML job board API with 5,200+ roles across 260+ companies. Search, filter, and post jobs programmatically. Free API keys, MCP server included. |
 
 ## AI Gateway/Aggregator
 
