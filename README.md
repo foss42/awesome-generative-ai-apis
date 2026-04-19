@@ -68,6 +68,8 @@ You can start contributing by adding the following:
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [Text-Generator](https://text-generator.io) | [Link](https://text-generator.io/docs) | Y | Unified text, vision, and speech API with privacy-first design. ChatGPT-compatible endpoint for text generation, image understanding, and speech processing. |
+| [Netwrck](https://netwrck.com) | [Link](https://netwrck.com/api) | Y | AI character chat API with voice and image generation. Build conversational AI characters with text, voice, and image capabilities. |
 
 ## AI Gateway/Aggregator
 
@@ -80,6 +82,7 @@ You can start contributing by adding the following:
 | [deAPI.ai](https://deapi.ai/) | [Link](https://docs.deapi.ai/) | Unified AI inference API on decentralized GPU infrastructure — image generation (Flux), TTS, transcription (Whisper), video generation, OCR, upscaling, background removal, and embeddings |
 | [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api) | [Link](https://agent-gateway-kappa.vercel.app/v1/agent-llm/docs) | Unified LLM gateway — route to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through one OpenAI-compatible API. BYOK, response caching, auto retries. 24+ models |
 | [PixelAPI](https://pixelapi.dev) | [Link](https://pixelapi.dev/docs) | Pay-per-use AI image API offering SDXL, FLUX image generation, background removal, and 4x upscaling. Python and JS SDKs available. |
+| [OpenPaths](https://openpaths.io) | [Link](https://openpaths.io/docs) | Open source model router with universal API for LLMs. Route requests across multiple AI providers with a single OpenAI-compatible endpoint. |
 
 ## Other AI Tools
 
