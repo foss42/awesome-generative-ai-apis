@@ -90,6 +90,7 @@ You can start contributing by adding the following:
 | [Prompeteer.ai](https://prompeteer.ai) | [Link](https://prompeteer.ai/connect) | REST API to generate, score, and optimize AI prompts for 140+ platforms. Features Prompt Score quality analysis across 16 dimensions and PromptDrive auto-save cloud library |
 | [Arch Tools](https://archtools.dev/) | [Link](https://archtools.dev/docs) | The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible |
 | [BGPT](https://bgpt.pro) | [Link](https://github.com/connerlambden/bgpt-mcp) | MCP server and API for searching scientific papers and returning structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies |
+| [peyeeye](https://peyeeye.ai) | [Link](https://peyeeye.ai/docs) | PII redaction and rehydration API for LLM prompts — strips emails, payment data, secrets, and 60+ entity types before the model sees them, then puts originals back in the response. Stateful sessions or stateless AEAD-sealed blobs |
 
 ## GenAI API Integration Articles/Tutorials
 
