@@ -121,3 +121,4 @@ You can start contributing by adding the following:
 | How To Use ChatGPT With Python | [Link](https://www.youtube.com/watch?v=5MvYe44zen4) | This video shows how to integrate OpenAI's API in Python projects. |
 | Build an AI Chatbot using RAG | [Link](https://www.youtube.com/watch?v=XctooiH0moI) | This video shows how to build an AI chatbot using retrieval augmented generation. |
 | Let's build GPT: from scratch, in code, spelled out by Andrej Karpathy | [Link](https://youtu.be/kCc8FmEb1nY?si=gc2dhU96USvt90ik) | This video demonstrates building a Generatively Pretrained Transformer (GPT). |
+| [OfoxAI](https://ofox.ai/) | [Link](https://ofox.ai/) | Unified API gateway for 100+ LLMs including Claude, GPT-5.4, and Gemini; native OpenAI, Anthropic, and Gemini SDK support with China direct access via Hong Kong routes |
