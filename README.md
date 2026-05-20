@@ -68,6 +68,7 @@ You can start contributing by adding the following:
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [QuickSilver Pro](https://quicksilverpro.io/) | [Link](https://quicksilverpro.io/docs) | Y | OpenAI-compatible inference API for open-weight LLMs (DeepSeek, Qwen, Kimi) and the Google Gemini family. Drop-in base URL, with a machine-readable pricing feed at /pricing.json. |
 
 ## AI Gateway/Aggregator
 
