@@ -90,6 +90,7 @@ You can start contributing by adding the following:
 | [Prompeteer.ai](https://prompeteer.ai) | [Link](https://prompeteer.ai/connect) | REST API to generate, score, and optimize AI prompts for 140+ platforms. Features Prompt Score quality analysis across 16 dimensions and PromptDrive auto-save cloud library |
 | [Arch Tools](https://archtools.dev/) | [Link](https://archtools.dev/docs) | The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible |
 | [BGPT](https://bgpt.pro) | [Link](https://github.com/connerlambden/bgpt-mcp) | MCP server and API for searching scientific papers and returning structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies |
+| [EVC Team Relay MCP](https://pypi.org/project/evc-team-relay-mcp/) | [Link](https://github.com/entire-vc/evc-team-relay-mcp) | MCP server that gives AI agents read/write access to an Obsidian vault via the Team Relay API. Works with Claude Code, Codex CLI, and any MCP-compatible client |
 
 ## GenAI API Integration Articles/Tutorials
 
