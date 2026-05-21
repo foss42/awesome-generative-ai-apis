@@ -80,6 +80,7 @@ You can start contributing by adding the following:
 | [deAPI.ai](https://deapi.ai/) | [Link](https://docs.deapi.ai/) | Unified AI inference API on decentralized GPU infrastructure — image generation (Flux), TTS, transcription (Whisper), video generation, OCR, upscaling, background removal, and embeddings |
 | [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api) | [Link](https://agent-gateway-kappa.vercel.app/v1/agent-llm/docs) | Unified LLM gateway — route to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through one OpenAI-compatible API. BYOK, response caching, auto retries. 24+ models |
 | [PixelAPI](https://pixelapi.dev) | [Link](https://pixelapi.dev/docs) | Pay-per-use AI image API offering SDXL, FLUX image generation, background removal, and 4x upscaling. Python and JS SDKs available. |
+| [AnyRouter](https://anyrouter.dev) | [Link](https://anyrouter.dev/docs) | Universal AI model router — one OpenAI-compatible API gateway for 150+ models across 28+ providers with unified billing, audit logs, real-time pricing, BYOK, and provider routing with automatic fallbacks |
 
 ## Other AI Tools
 
