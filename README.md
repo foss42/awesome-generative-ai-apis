@@ -18,7 +18,7 @@ Some of the applications of these APIs are:
 - Language Translation Services to improve cross-language communication
 - Provide tailored content based on user preferences in e-commerce, music, and video streaming
 - Assist students and researchers in research & education
-- ..and many more
+- ...And many more
 
 The goal of this project is to create a Generative AI & LLM API hub for developers so that they can create innovative applications, enhance user experiences, and drive progress in the AI field.
 
@@ -29,7 +29,7 @@ You can start contributing by adding the following:
 | Project Homepage    | API Docs Link  | Requires Auth Token (Y/N)  | Description (2 lines max)  |
 |:-----------|:------|:------|:-------------|
 | [OpenAI](https://openai.com/)| [Link](https://platform.openai.com/docs/api-reference) | Y | OpenAI APIs offer state-of-the-art GenAI models that can generate human-like text, answer questions, translate languages, generate and understand images, turn text to speech or speech to text thus empowering developers to create advanced AI-powered applications with ease. |
-| [Gemini](https://ai.google.dev/)| [Link](https://ai.google.dev/gemini-api/docs)  | Y | designed to understand and interact with multiple data types, including text, images, audio, and video. |
+ | [Gemini](https://ai.google.dev/)| [Link](https://ai.google.dev/gemini-api/docs)  | Y | Designed to understand and interact with multiple data types, including text, images, audio, and video. |
 | [Llama AI](https://www.llama-api.com/) | [Link](https://docs.llama-api.com/quickstart) | Y | Offers APIs to access Llama models to answer complex queries and generate text.|
 | [Groq](https://groq.com/) | [Link](https://console.groq.com/docs/quickstart) | Y | Fastest Token Generation with Language Processing Units. Able to work on Open Source Models: Gemma-7b-lt, Llama3-70b-8192, Llama3-8b-8192, Mixtral-8x7b-32768. |
 | [Databricks](https://docs.databricks.com/en/machine-learning/foundation-models/index.html) | [Link](https://docs.databricks.com/en/machine-learning/foundation-models/api-reference.html) | Y | Databricks supports Foundation Model APIs which allow you to access and query state-of-the-art open models. You can quickly and easily build applications that leverage a high-quality generative AI model without maintaining your own model deployment. |
@@ -50,7 +50,7 @@ You can start contributing by adding the following:
 | [Synthesia](https://www.synthesia.io/) | [Link](https://docs.synthesia.io/docs/getting-started) | Y | Synthesia offers an API to turn text to video in minutes with AI avatars and voiceovers in 130+ languages. |
 | [ElevenLabs](https://elevenlabs.io/) | [Link](https://elevenlabs.io/docs/api-reference/getting-started) | Y | ElevenLabs offers a voice generation API to produce highly realistic and natural-sounding voices. |
 | [Perplexity AI](https://www.perplexity.ai/hub/getting-started) | [Link](https://docs.perplexity.ai/docs/getting-started) | Y | Perplexity is like an AI-powered swiss army knife helping in information discovery, summarizing content, exploring new topics etc. |
-| [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | Heygen let's you create produce studio-quality videos with AI-generated avatars and voices. |
+| [HeyGen AI](https://www.heygen.com) | [Link](https://docs.heygen.com/reference/authentication-1) | Y | HeyGen lets you create studio-quality videos with AI-generated avatars and voices. |
 | [DeepL Translate](https://www.deepl.com/translator) | [Link](https://developers.deepl.com/docs) | Y | DeepL provides high-quality text and document translations. | 
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watson lets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
 | [Writer](https://writer.com/) | [Link](https://dev.writer.com/api-reference/list-models) | Y | Writer provides APIs for generating, enhancing, and personalizing content. |
