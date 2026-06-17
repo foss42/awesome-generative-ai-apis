@@ -55,6 +55,7 @@ You can start contributing by adding the following:
 | [IBM Watson AI](https://www.ibm.com/products/watsonx-ai) | [Link](https://cloud.ibm.com/developer/watson/documentation) | Y | IBM Watson lets you incorporate AI capabilities like conversation, language analysis, STT & TTS into your applications. |
 | [Writer](https://writer.com/) | [Link](https://dev.writer.com/api-reference/list-models) | Y | Writer provides APIs for generating, enhancing, and personalizing content. |
 | [Together AI](https://www.together.ai/) | [Link](https://docs.together.ai/docs/quickstart) | Y | Together AI offers an API to query 50+ leading open-source models in a couple lines of code. |
+| [Pinstripes](https://pinstripes.io) | [Link](https://pinstripes.io/docs) | Y | Fast, cheap OpenAI-compatible inference API. Serves DeepSeek V4 Flash ($0.10/M), GLM-4.5-Air ($0.125/M), Qwen3-35B ($0.14/M), and MiniMax M2.7 ($0.255/M). |
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed. |
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
