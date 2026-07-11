@@ -58,6 +58,7 @@ You can start contributing by adding the following:
 | [GooseAI](https://goose.ai/) | [Link](https://goose.ai/docs) | Y | GooseAI provides a fully managed NLP-as-a-Service, offering various GPT-based models with high customization and speed. |
 | [Voyage AI](https://www.voyageai.com/) | [Link](https://docs.voyageai.com/reference/embeddings-api) | Y | Voyage AI provides API endpoints for embedding and reranking models. |
 | [AI/ML API](https://aimlapi.com/) | [Link](https://docs.aimlapi.com/) | Y |  An API aggregator that provides access to 100+ AI models via a single API. |
+| [GoldBean](https://goldbean-api.xyz/) | [Link](https://goldbean-api.xyz/openapi.json) | Y | Pay-per-use API marketplace with OpenAI-compatible access to Baidu AI Cloud generative AI, OCR, translation, and NLP services. |
 | [Wit.ai](https://wit.ai/) | [Link](https://wit.ai/docs/http/20240304/) | Y | Wit.ai provides APIs to build natural language experiences. |
 | [PlayHT](https://play.ht/) | [Link](https://docs.play.ht/reference/api-getting-started) | Y | Play.ht provides realistic text-to-speech voices and audio generation for various applications. |
 | [Chooch AI](https://www.chooch.com/) | [Link](https://www.chooch.com/api/) | Y | Detects, processes, and instantly analyzes visual elements in video streams. |
