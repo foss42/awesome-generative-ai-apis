@@ -13,6 +13,7 @@ A curated list of useful Generative AI & LLM APIs for developers.
 Generative AI APIs allow developers to integrate generative models into their applications without building the models from scratch. These APIs provide an interface for generating text, images, or other content. They also include LLM APIs that provide access to pre-trained language models for various tasks.
 
 Some of the applications of these APIs are:
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - Content Creation for blogs, social media, and marketing
 - Virtual Assistants and Chatbots
 - Language Translation Services to improve cross-language communication
