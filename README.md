@@ -68,6 +68,7 @@ You can start contributing by adding the following:
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [Magic Hour](https://magichour.ai/) | [Link](https://docs.magichour.ai) | Y | Magic Hour offers a single API for AI video (Sora 2, Veo 3.1, Kling 3.0, Seedance, WAN) and image generation (GPT-image, Nano Banana Pro, Flux), plus face swap, lip sync and talking photo. Free tier with 400 credits on signup + 100/day. |
 
 ## AI Gateway/Aggregator
 
