@@ -90,6 +90,7 @@ You can start contributing by adding the following:
 | [Prompeteer.ai](https://prompeteer.ai) | [Link](https://prompeteer.ai/connect) | REST API to generate, score, and optimize AI prompts for 140+ platforms. Features Prompt Score quality analysis across 16 dimensions and PromptDrive auto-save cloud library |
 | [Arch Tools](https://archtools.dev/) | [Link](https://archtools.dev/docs) | The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible |
 | [BGPT](https://bgpt.pro) | [Link](https://github.com/connerlambden/bgpt-mcp) | MCP server and API for searching scientific papers and returning structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies |
+| [Consensus Room](https://consensusroom.com) | [Link](https://consensusroom.com/integration.html) | Panel API: submit a question and multiple LLMs (Claude, GPT, Gemini and others) debate it independently, then a moderator model returns a merged synthesis with consensus scores |
 
 ## GenAI API Integration Articles/Tutorials
 
