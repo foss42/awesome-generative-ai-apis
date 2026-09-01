@@ -75,6 +75,7 @@ You can start contributing by adding the following:
 |:-----------|:------|:-------------|
 | [Vercel AI Gateway](https://vercel.com/ai-gateway) | [Link](https://vercel.com/docs/ai-gateway) | Unified API endpoint across multiple AI model providers; supports model switching, fallback, spend monitoring, and OpenAI-compatible endpoints |
 | [OmniRoute](https://github.com/diegosouzapw/OmniRoute) | [Link](https://github.com/diegosouzapw/OmniRoute) | Self-hostable AI gateway with 4-tier cascading fallback and multi-provider load balancing. Supports 200+ models across OpenAI, Anthropic, Google, and local providers via OpenAI-compatible API |
+| [Bifrost](https://github.com/maximhq/bifrost) | [Link](https://docs.getbifrost.ai/) | Go-native, OpenAI-compatible AI gateway with multi-provider routing, automatic failover, load balancing, guardrails, MCP gateway support, and built-in logs, metrics, and tracing |
 | [Glio](https://glio.io/) | [Link](https://glio.io/docs/api/) | Unified API for the most cost-effective access to 50+ SOTA models. Kling, NanoBanana, Sora2, Veo3, Suno, ElevenLabs and more |
 | [EvoLink](https://evolink.ai/) | [Link](https://evolink.ai/docs) | Unified AI API gateway for 40+ models including video generation (Seedance 2.0, Sora 2, Veo 3.1), image generation, LLMs, and AI music |
 | [deAPI.ai](https://deapi.ai/) | [Link](https://docs.deapi.ai/) | Unified AI inference API on decentralized GPU infrastructure — image generation (Flux), TTS, transcription (Whisper), video generation, OCR, upscaling, background removal, and embeddings |
