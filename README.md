@@ -68,6 +68,10 @@ You can start contributing by adding the following:
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
+| [Tunova](https://tunova.ai) | [Link](https://api.tunova.ai/docs) | Y | Hosted Suno API for full-song music generation — REST + a hosted MCP server, async signed webhooks, billed only on successful renders (failed generations auto-refund) |
+| [QuickSilver Pro](https://quicksilverpro.io/) | [Link](https://quicksilverpro.io/docs) | Y | OpenAI-compatible inference API for open-weight LLMs (DeepSeek, Qwen, Kimi) and the Google Gemini family. Drop-in base URL, with a machine-readable pricing feed at /pricing.json. |
+| [Text-Generator](https://text-generator.io) | [Link](https://text-generator.io/docs) | Y | Unified text, vision, and speech API with privacy-first design. ChatGPT-compatible endpoint for text generation, image understanding, and speech processing. |
+| [Netwrck](https://netwrck.com) | [Link](https://netwrck.com/api) | Y | AI character chat API with voice and image generation. Build conversational AI characters with text, voice, and image capabilities. |
 
 ## AI Gateway/Aggregator
 
@@ -81,6 +85,16 @@ You can start contributing by adding the following:
 | [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api) | [Link](https://agent-gateway-kappa.vercel.app/v1/agent-llm/docs) | Unified LLM gateway — route to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through one OpenAI-compatible API. BYOK, response caching, auto retries. 24+ models |
 | [PixelAPI](https://pixelapi.dev) | [Link](https://pixelapi.dev/docs) | Pay-per-use AI image API offering SDXL, FLUX image generation, background removal, and 4x upscaling. Python and JS SDKs available. |
 | [NovAI](https://aiapi-pro.com) | [Link](https://aiapi-pro.com/docs) | OpenAI-compatible gateway to Chinese frontier models (DeepSeek, Qwen, GLM, Kimi, MiniMax, Doubao, Hunyuan) plus image and video generation on one endpoint |
+| [RouterPlex](https://routerplex.com) | [Link](https://routerplex.com/docs) | OpenAI-compatible AI gateway — one API key for 25+ models (Claude, GPT, Gemini, DeepSeek) across 11 providers. Pay per token, no subscription, $5 free credit on signup — extra $25 credit for signing up with GitHub |
+| [MuAPI](https://muapi.ai) | [Link](https://api.muapi.ai/openapi.json) | OpenAI-compatible generative media API aggregating 44+ image, video, and audio models (Flux, Midjourney, Kling, Suno, and more) via a single unified endpoint. |
+| [EmpirioLabs AI](https://empiriolabs.ai/) | [Link](https://docs.empiriolabs.ai/) | OpenAI-compatible AI API platform for text, image, video, audio, search, and 3D models with a live model catalog and pay-as-you-go access |
+| [RunAPI](https://runapi.ai) | [Link](https://runapi.ai/docs) | Unified API for hosted image, video, audio, and model API jobs. Includes model pages plus JavaScript, Python, Ruby, Go, Java, and PHP SDKs for supported models. |
+| [routerbase](https://routerbase.com) | [Link](https://docs.routerbase.com/) | OpenAI-compatible AI gateway for 200+ models with smart routing, automatic fallback, unified billing, and usage analytics. |
+| [WanAPIs](https://wanapis.com/) | [Link](https://wanapis.com/docs) | OpenAI-compatible AI API gateway for GPT, Claude, Gemini, DeepSeek, image, video, and audio models. Includes a model marketplace, usage logs, quota controls, multi-channel routing, and failover |
+| [AnyRouter](https://anyrouter.dev) | [Link](https://anyrouter.dev/docs) | Universal AI model router — one OpenAI-compatible API gateway for 150+ models across 28+ providers with unified billing, audit logs, real-time pricing, BYOK, and provider routing with automatic fallbacks |
+| [OfoxAI](https://ofox.ai/) | [Link](https://ofox.ai/docs) | Unified API gateway for 100+ LLMs including Claude, GPT-5.4, and Gemini; native OpenAI, Anthropic, and Gemini SDK support with China direct access via Hong Kong routes |
+| [FuturMix](https://futurmix.ai/) | [Link](https://futurmix.ai/docs) | Unified AI gateway with 22+ models (Claude, GPT, Gemini) via OpenAI-compatible API. 99.99% SLA, single API key, 20-30% cheaper than alternatives |
+| [OpenPaths](https://openpaths.io) | [Link](https://openpaths.io/docs) | Open source model router with universal API for LLMs. Route requests across multiple AI providers with a single OpenAI-compatible endpoint. |
 
 ## Other AI Tools
 
@@ -91,6 +105,13 @@ You can start contributing by adding the following:
 | [Prompeteer.ai](https://prompeteer.ai) | [Link](https://prompeteer.ai/connect) | REST API to generate, score, and optimize AI prompts for 140+ platforms. Features Prompt Score quality analysis across 16 dimensions and PromptDrive auto-save cloud library |
 | [Arch Tools](https://archtools.dev/) | [Link](https://archtools.dev/docs) | The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible |
 | [BGPT](https://bgpt.pro) | [Link](https://github.com/connerlambden/bgpt-mcp) | MCP server and API for searching scientific papers and returning structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies |
+| [ChangeRadar](https://changeradar.ai) | [Link](https://changeradar.ai/methodology) | Early warning for AI API changes — tracks pricing, rate limits, deprecations & breaking changes across 90+ sources, with timestamped before/after diffs |
+| [Superhighway](https://superhighway.walls.sh) | [Link](https://superhighway.walls.sh/guides) | Web search API for AI agents with search, news, images, scrape, and research endpoints. Free API key (1k calls/month) or x402 USDC pay-per-call |
+| [peyeeye](https://peyeeye.ai) | [Link](https://peyeeye.ai/docs) | PII redaction and rehydration API for LLM prompts — strips emails, payment data, secrets, and 60+ entity types before the model sees them, then puts originals back in the response. Stateful sessions or stateless AEAD-sealed blobs |
+| [unslop](https://github.com/MohamedAbdallah-14/unslop) | [Link](https://github.com/MohamedAbdallah-14/unslop) | CLI that strips AI writing patterns from content before publishing: sycophantic openers, stock vocabulary, hedging stacks, em-dash overuse. Code blocks, URLs, and technical terms pass through unchanged. Pipe mode for scripting |
+| [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | [Link](https://github.com/MohamedAbdallah-14/prompt-to-asset) | MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers |
+| [AceTagGen Suno Scorer](https://acetaggen.com/tools/prompt-scorer) | [Link](https://github.com/shaizadok92/suno-prompt-scorer) | Free CORS-enabled REST API that scores Suno AI music prompts on a 100-point scale across 4 metrics (length, tag collisions, specificity, density). No auth. |
+| [Not Human Search](https://nothumansearch.ai/) | [Link](https://nothumansearch.ai/) | Agent-first search engine indexing 9,000+ AI-accessible tools. REST API and MCP server for discovering tools with APIs, MCP endpoints, and structured data. |
 
 ## GenAI API Integration Articles/Tutorials
 
@@ -101,7 +122,7 @@ You can start contributing by adding the following:
 | Create your own GenAI Image Generator App like MidJourney or DALLE-2 | [Link](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej) | This article provides a tutorial on how to integrate AI-generated images into a React app using Segmind's text2Img API. | 
 | Introducing Google Gemini API: Discover the Power of the New Gemini AI Models | [Link](https://www.datacamp.com/tutorial/introducing-gemini-api) | This article provides a tutorial on how to use Gemini Python API and its various functions to build AI-enabled applications. |
 | The OpenAI API in Python | [Link](https://www.datacamp.com/cheat-sheet/the-open-ai-api-in-python) | Learn the basics on how to leverage OpenAI API. |
-| How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain. | 
+| How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain. |
 
 ## GenAI API Integration Youtube Videos
 
