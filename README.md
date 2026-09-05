@@ -83,6 +83,7 @@ You can start contributing by adding the following:
 | [deAPI.ai](https://deapi.ai/) | [Link](https://docs.deapi.ai/) | Unified AI inference API on decentralized GPU infrastructure — image generation (Flux), TTS, transcription (Whisper), video generation, OCR, upscaling, background removal, and embeddings |
 | [Agent LLM Router](https://api-catalog-three.vercel.app/blog/free-llm-api) | [Link](https://agent-gateway-kappa.vercel.app/v1/agent-llm/docs) | Unified LLM gateway — route to OpenAI, Anthropic, Google Gemini, Groq, Together AI, DeepSeek through one OpenAI-compatible API. BYOK, response caching, auto retries. 24+ models |
 | [PixelAPI](https://pixelapi.dev) | [Link](https://pixelapi.dev/docs) | Pay-per-use AI image API offering SDXL, FLUX image generation, background removal, and 4x upscaling. Python and JS SDKs available. |
+| [OfoxAI](https://ofox.ai/) | [Link](https://ofox.ai/docs) | Unified API gateway for 100+ LLMs including Claude, GPT-5.4, and Gemini; native OpenAI, Anthropic, and Gemini SDK support with China direct access via Hong Kong routes |
 | [FuturMix](https://futurmix.ai/) | [Link](https://futurmix.ai/docs) | Unified AI gateway with 22+ models (Claude, GPT, Gemini) via OpenAI-compatible API. 99.99% SLA, single API key, 20-30% cheaper than alternatives |
 | [OpenPaths](https://openpaths.io) | [Link](https://openpaths.io/docs) | Open source model router with universal API for LLMs. Route requests across multiple AI providers with a single OpenAI-compatible endpoint. |
 
