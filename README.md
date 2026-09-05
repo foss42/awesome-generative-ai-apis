@@ -95,6 +95,7 @@ You can start contributing by adding the following:
 | [OfoxAI](https://ofox.ai/) | [Link](https://ofox.ai/docs) | Unified API gateway for 100+ LLMs including Claude, GPT-5.4, and Gemini; native OpenAI, Anthropic, and Gemini SDK support with China direct access via Hong Kong routes |
 | [FuturMix](https://futurmix.ai/) | [Link](https://futurmix.ai/docs) | Unified AI gateway with 22+ models (Claude, GPT, Gemini) via OpenAI-compatible API. 99.99% SLA, single API key, 20-30% cheaper than alternatives |
 | [OpenPaths](https://openpaths.io) | [Link](https://openpaths.io/docs) | Open source model router with universal API for LLMs. Route requests across multiple AI providers with a single OpenAI-compatible endpoint. |
+| [Magic Hour](https://magichour.ai/) | [Link](https://docs.magichour.ai) | Y | Magic Hour offers a single API for AI video (Sora 2, Veo 3.1, Kling 3.0, Seedance, WAN) and image generation (GPT-image, Nano Banana Pro, Flux), plus face swap, lip sync and talking photo |
 
 ## Other AI Tools
 
