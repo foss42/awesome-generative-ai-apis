@@ -68,8 +68,6 @@ You can start contributing by adding the following:
 | [SharpAPI](https://sharpapi.com/) | [Link](https://sharpapi.com/documentation) | Y | Generative AI APIs for some use cases in E-Commerce, Marketing, Content Management, HR Tech, Travel, etc.|
 | [Pollinations.AI](https://pollinations.ai/) | [Link](https://github.com/pollinations/pollinations/blob/master/APIDOCS.md) | N | Pollinations.AI provides free, no-signup APIs for text, image, and audio generation with no API keys required. |
 | [Vedika](https://vedika.io) | [Link](https://vedika.io/docs) | Y | GenAI-powered Vedic astrology API. Natural language queries for birth charts, compatibility analysis, and predictions |
-| [Not Human Search](https://nothumansearch.ai/) | [Link](https://nothumansearch.ai/docs) | N | Agent-first search engine indexing 9,000+ AI-accessible tools. REST API and MCP server for discovering tools with APIs, MCP endpoints, and structured data. |
-| [AI Dev Jobs](https://aidevboard.com/) | [Link](https://aidevboard.com/docs) | N | AI/ML job board API with 5,200+ roles across 260+ companies. Search, filter, and post jobs programmatically. Free API keys, MCP server included. |
 
 ## AI Gateway/Aggregator
 
@@ -92,6 +90,7 @@ You can start contributing by adding the following:
 | [Prompeteer.ai](https://prompeteer.ai) | [Link](https://prompeteer.ai/connect) | REST API to generate, score, and optimize AI prompts for 140+ platforms. Features Prompt Score quality analysis across 16 dimensions and PromptDrive auto-save cloud library |
 | [Arch Tools](https://archtools.dev/) | [Link](https://archtools.dev/docs) | The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible |
 | [BGPT](https://bgpt.pro) | [Link](https://github.com/connerlambden/bgpt-mcp) | MCP server and API for searching scientific papers and returning structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies |
+| [Not Human Search](https://nothumansearch.ai/) | [Link](https://nothumansearch.ai/) | Agent-first search engine indexing 9,000+ AI-accessible tools. REST API and MCP server for discovering tools with APIs, MCP endpoints, and structured data. |
 
 ## GenAI API Integration Articles/Tutorials
 
