@@ -90,7 +90,7 @@ You can start contributing by adding the following:
 | [Prompeteer.ai](https://prompeteer.ai) | [Link](https://prompeteer.ai/connect) | REST API to generate, score, and optimize AI prompts for 140+ platforms. Features Prompt Score quality analysis across 16 dimensions and PromptDrive auto-save cloud library |
 | [Arch Tools](https://archtools.dev/) | [Link](https://archtools.dev/docs) | The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible |
 | [BGPT](https://bgpt.pro) | [Link](https://github.com/connerlambden/bgpt-mcp) | MCP server and API for searching scientific papers and returning structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies |
-| [Superhighway](https://superhighway.walls.sh) | [Link](https://superhighway.walls.sh/guides) | Web search API for AI agents with search, news, images, scrape, and research endpoints. Free API key (1k calls/month) or x402 USDC pay-per-call on Base. MCP server: `npx -y superhighway-mcp` |
+| [Superhighway](https://superhighway.walls.sh) | [Link](https://superhighway.walls.sh/guides) | Web search API for AI agents with search, news, images, scrape, and research endpoints. Free API key (1k calls/month) or x402 USDC pay-per-call |
 
 ## GenAI API Integration Articles/Tutorials
 
@@ -101,8 +101,7 @@ You can start contributing by adding the following:
 | Create your own GenAI Image Generator App like MidJourney or DALLE-2 | [Link](https://dev.to/techygeeky/create-your-own-genai-image-generator-app-like-midjourney-or-dalle-2-lej) | This article provides a tutorial on how to integrate AI-generated images into a React app using Segmind's text2Img API. | 
 | Introducing Google Gemini API: Discover the Power of the New Gemini AI Models | [Link](https://www.datacamp.com/tutorial/introducing-gemini-api) | This article provides a tutorial on how to use Gemini Python API and its various functions to build AI-enabled applications. |
 | The OpenAI API in Python | [Link](https://www.datacamp.com/cheat-sheet/the-open-ai-api-in-python) | Learn the basics on how to leverage OpenAI API. |
-| How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain. | 
-| Add Live Web Search to a Gemini App with Function Calling | [Link](https://superhighway.walls.sh/guides/web-search-gemini) | Step-by-step tutorial on giving a Gemini app live web search using function calling with the google-generativeai Python SDK. |
+| How to Build LLM Applications with LangChain | [Link](https://www.datacamp.com/tutorial/how-to-build-llm-applications-with-langchain) | Explore the untapped potential of Large Language Models with LangChain. |
 
 ## GenAI API Integration Youtube Videos
 
