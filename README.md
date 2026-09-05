@@ -86,18 +86,18 @@ You can start contributing by adding the following:
 | [PixelAPI](https://pixelapi.dev) | [Link](https://pixelapi.dev/docs) | Pay-per-use AI image API offering SDXL, FLUX image generation, background removal, and 4x upscaling. Python and JS SDKs available. |
 | [UnificAlly](https://unifically.com) | [Link](https://docs.unifically.com) | One API for 100+ AI video, image, music, and speech models (Veo 3.1, Kling, SeeDance, Nano Banana, Suno, ElevenLabs). |
 | [NovAI](https://aiapi-pro.com) | [Link](https://aiapi-pro.com/docs) | OpenAI-compatible gateway to Chinese frontier models (DeepSeek, Qwen, GLM, Kimi, MiniMax, Doubao, Hunyuan) plus image and video generation on one endpoint |
-| [RouterPlex](https://routerplex.com) | [Link](https://routerplex.com/docs) | OpenAI-compatible AI gateway — one API key for 25+ models (Claude, GPT, Gemini, DeepSeek) across 11 providers. Pay per token, no subscription, $5 free credit on signup — extra $25 credit for signing up with GitHub |
+| [RouterPlex](https://routerplex.com) | [Link](https://routerplex.com/docs) | OpenAI-compatible AI gateway — one API key for 25+ models (Claude, GPT, Gemini, DeepSeek) across 11 providers |
 | [MuAPI](https://muapi.ai) | [Link](https://api.muapi.ai/openapi.json) | OpenAI-compatible generative media API aggregating 44+ image, video, and audio models (Flux, Midjourney, Kling, Suno, and more) via a single unified endpoint. |
-| [EmpirioLabs AI](https://empiriolabs.ai/) | [Link](https://docs.empiriolabs.ai/) | OpenAI-compatible AI API platform for text, image, video, audio, search, and 3D models with a live model catalog and pay-as-you-go access |
+| [EmpirioLabs AI](https://empiriolabs.ai/) | [Link](https://docs.empiriolabs.ai/) | OpenAI-compatible AI API platform for text, image, video, audio, search, and 3D models with a live model catalog |
 | [RunAPI](https://runapi.ai) | [Link](https://runapi.ai/docs) | Unified API for hosted image, video, audio, and model API jobs. Includes model pages plus JavaScript, Python, Ruby, Go, Java, and PHP SDKs for supported models. |
 | [routerbase](https://routerbase.com) | [Link](https://docs.routerbase.com/) | OpenAI-compatible AI gateway for 200+ models with smart routing, automatic fallback, unified billing, and usage analytics. |
 | [WanAPIs](https://wanapis.com/) | [Link](https://wanapis.com/docs) | OpenAI-compatible AI API gateway for GPT, Claude, Gemini, DeepSeek, image, video, and audio models. Includes a model marketplace, usage logs, quota controls, multi-channel routing, and failover |
 | [AnyRouter](https://anyrouter.dev) | [Link](https://anyrouter.dev/docs) | Universal AI model router — one OpenAI-compatible API gateway for 150+ models across 28+ providers with unified billing, audit logs, real-time pricing, BYOK, and provider routing with automatic fallbacks |
 | [OfoxAI](https://ofox.ai/) | [Link](https://ofox.ai/docs) | Unified API gateway for 100+ LLMs including Claude, GPT-5.4, and Gemini; native OpenAI, Anthropic, and Gemini SDK support with China direct access via Hong Kong routes |
-| [FuturMix](https://futurmix.ai/) | [Link](https://futurmix.ai/docs) | Unified AI gateway with 22+ models (Claude, GPT, Gemini) via OpenAI-compatible API. 99.99% SLA, single API key, 20-30% cheaper than alternatives |
+| [FuturMix](https://futurmix.ai/) | [Link](https://futurmix.ai/docs) | Unified AI gateway with 22+ models (Claude, GPT, Gemini) via OpenAI-compatible API |
 | [OpenPaths](https://openpaths.io) | [Link](https://openpaths.io/docs) | Open source model router with universal API for LLMs. Route requests across multiple AI providers with a single OpenAI-compatible endpoint. |
 | [Magic Hour](https://magichour.ai/) | [Link](https://docs.magichour.ai) | Y | Magic Hour offers a single API for AI video (Sora 2, Veo 3.1, Kling 3.0, Seedance, WAN) and image generation (GPT-image, Nano Banana Pro, Flux), plus face swap, lip sync and talking photo |
-| [TeamoRouter](https://teamorouter.cn) | [Link](https://teamorouter.cn/docs) | LLM API gateway with OpenAI-compatible endpoints plus a native Anthropic Messages API — Claude Code and Codex connect by changing only the base URL. Permanent free tier: DeepSeek V4 Pro 200 req/day, V4 Flash 50 req/day (1M context); paid models at ~10-20% of official pricing |
+| [TeamoRouter](https://teamorouter.cn) | [Link](https://teamorouter.cn/docs) | LLM API gateway with OpenAI-compatible endpoints plus a native Anthropic Messages API — Claude Code and Codex connect by changing only the base URL |
 
 ## Other AI Tools
 
