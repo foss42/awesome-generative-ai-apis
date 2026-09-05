@@ -85,12 +85,12 @@ You can start contributing by adding the following:
 
 | Project Homepage    | Docs | Description (2 lines max)  |
 |:-----------|:------|:-------------|
-| [ChangeRadar](https://changeradar.ai) | [Link](https://changeradar.ai/methodology) | Early warning for AI API changes — tracks pricing, rate limits, deprecations & breaking changes across OpenAI, Anthropic, Google & 90+ sources, with timestamped before/after diffs. Free weekly digest + RSS |
 | [GEOScore](https://geoscoreai.com) | [Link](https://geoscoreai.com/tools/robots-txt-generator) | Free AI search visibility scanner that checks if your site can be found by ChatGPT, Perplexity, Claude & Gemini. Includes AI Robots.txt Generator and AI Crawler Checker |
 | [Humanizer PRO](https://texthumanizer.pro) | [Link](https://github.com/khadinakbaronline/humanizer-pro-mcp) | Humanizer PRO API transforms AI-generated text into natural human-like writing and provides AI detection analysis tools |
 | [Prompeteer.ai](https://prompeteer.ai) | [Link](https://prompeteer.ai/connect) | REST API to generate, score, and optimize AI prompts for 140+ platforms. Features Prompt Score quality analysis across 16 dimensions and PromptDrive auto-save cloud library |
 | [Arch Tools](https://archtools.dev/) | [Link](https://archtools.dev/docs) | The first x402 API hub — 58+ AI tools for search, scraping, analysis, and generation with native Coinbase x402 crypto payments on 15+ chains. MCP compatible |
 | [BGPT](https://bgpt.pro) | [Link](https://github.com/connerlambden/bgpt-mcp) | MCP server and API for searching scientific papers and returning structured experimental data (methods, results, sample sizes, quality scores) extracted from full-text studies |
+| [ChangeRadar](https://changeradar.ai) | [Link](https://changeradar.ai/methodology) | Early warning for AI API changes — tracks pricing, rate limits, deprecations & breaking changes across 90+ sources, with timestamped before/after diffs |
 
 ## GenAI API Integration Articles/Tutorials
 
