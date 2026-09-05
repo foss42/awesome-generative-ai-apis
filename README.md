@@ -117,6 +117,7 @@ You can start contributing by adding the following:
 | [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) | [Link](https://github.com/MohamedAbdallah-14/prompt-to-asset) | MCP server that generates production-ready visual assets (app icons, favicons, OG images, logos, wordmarks) by routing prompts across 30+ image generation models. Zero API key required for first run via free tiers |
 | [AceTagGen Suno Scorer](https://acetaggen.com/tools/prompt-scorer) | [Link](https://github.com/shaizadok92/suno-prompt-scorer) | Free CORS-enabled REST API that scores Suno AI music prompts on a 100-point scale across 4 metrics (length, tag collisions, specificity, density). No auth. |
 | [Not Human Search](https://nothumansearch.ai/) | [Link](https://nothumansearch.ai/) | Agent-first search engine indexing 9,000+ AI-accessible tools. REST API and MCP server for discovering tools with APIs, MCP endpoints, and structured data. |
+| [Consensus Room](https://consensusroom.com) | [Link](https://consensusroom.com/integration.html) | Panel API: submit a question and multiple LLMs (Claude, GPT, Gemini and others) debate it independently, then a moderator model returns a merged synthesis with consensus scores |
 
 ## GenAI API Integration Articles/Tutorials
 
