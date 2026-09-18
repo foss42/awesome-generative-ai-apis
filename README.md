@@ -36,6 +36,7 @@ You can start contributing by adding the following:
 | [Perplexity AI](https://www.perplexity.ai/hub/getting-started) | [Link](https://docs.perplexity.ai/docs/getting-started) | Perplexity is like an AI-powered swiss army knife helping in information discovery, summarizing content, exploring new topics etc. |
 
 ## GenAI APIs (Other API Providers)
+| [TideLink](https://tidelink.xyz?cid=gh) | [Link](https://tidelink.xyz/pricing) | Usage-based OpenAI-compatible LLM API gateway. Permanent free tier (GLM-4-Flash) plus BYOK across 20+ providers. |
 
 | Project Homepage    | API Docs Link  | Description (2 lines max)  |
 |:-----------|:------|:-------------|
