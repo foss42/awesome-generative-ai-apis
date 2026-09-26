@@ -120,3 +120,9 @@ You can start contributing by adding the following:
 | [AceTagGen Suno Scorer](https://acetaggen.com/tools/prompt-scorer) | [Link](https://github.com/shaizadok92/suno-prompt-scorer) | Free CORS-enabled REST API that scores Suno AI music prompts on a 100-point scale across 4 metrics (length, tag collisions, specificity, density) |
 | [Not Human Search](https://nothumansearch.ai/) | [Link](https://nothumansearch.ai/) | Agent-first search engine indexing 9,000+ AI-accessible tools. REST API and MCP server for discovering tools with APIs, MCP endpoints, and structured data. |
 | [Consensus Room](https://consensusroom.com) | [Link](https://consensusroom.com/integration.html) | Panel API: submit a question and multiple LLMs (Claude, GPT, Gemini and others) debate it independently, then a moderator model returns a merged synthesis with consensus scores |
+
+## Flat-Rate Multi-Model API
+
+| Project Homepage | API Docs Link | Description (2 lines max) |
+| --- | --- | --- |
+| [APIClaw](https://apiclaw.biz/) | [Link](https://apiclaw.biz/) | OpenAI-compatible API with flat-rate access to Claude, GPT, Kimi, Qwen, DeepSeek, and GLM models. Plans are $19$129/month with 50 free trial requests. Not affiliated with Anthropic or OpenAI. |
