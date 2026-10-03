@@ -120,3 +120,5 @@ You can start contributing by adding the following:
 | [AceTagGen Suno Scorer](https://acetaggen.com/tools/prompt-scorer) | [Link](https://github.com/shaizadok92/suno-prompt-scorer) | Free CORS-enabled REST API that scores Suno AI music prompts on a 100-point scale across 4 metrics (length, tag collisions, specificity, density) |
 | [Not Human Search](https://nothumansearch.ai/) | [Link](https://nothumansearch.ai/) | Agent-first search engine indexing 9,000+ AI-accessible tools. REST API and MCP server for discovering tools with APIs, MCP endpoints, and structured data. |
 | [Consensus Room](https://consensusroom.com) | [Link](https://consensusroom.com/integration.html) | Panel API: submit a question and multiple LLMs (Claude, GPT, Gemini and others) debate it independently, then a moderator model returns a merged synthesis with consensus scores |
+
+| [ModelBenchmark](https://modelbenchmark.io) | [Link](https://modelbenchmark.io) | Ranks 202 AI models from 16 public benchmarks and compares token prices, context windows, and release dates for 2,406 models. |
