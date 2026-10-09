@@ -15,6 +15,7 @@ Some of the applications of these APIs are:
 - Provide tailored content based on user preferences in e-commerce, music, and video streaming
 - Assist students and researchers in research & education
 - ..and many more
+- [Rynler Token Cost Calculator](https://github.com/Slymaster/rynler-token-cost-calculator) - Browser-only LLM API token-cost calculator: estimate bills from your own rates and token counts. No accounts, no analytics, no API calls.
 
 The goal of this project is to create a Generative AI & LLM API hub for developers so that they can create innovative applications, enhance user experiences, and drive progress in the AI field.
 
