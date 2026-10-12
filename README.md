@@ -36,6 +36,7 @@ You can start contributing by adding the following:
 | [Perplexity AI](https://www.perplexity.ai/hub/getting-started) | [Link](https://docs.perplexity.ai/docs/getting-started) | Perplexity is like an AI-powered swiss army knife helping in information discovery, summarizing content, exploring new topics etc. |
 
 ## GenAI APIs (Other API Providers)
+| [Raphael AI](https://raphael.app) | [Site](https://raphael.app) | Free AI image generator (text-to-image) with Seedream, Nano Banana, GPT Image |
 
 | Project Homepage    | API Docs Link  | Description (2 lines max)  |
 |:-----------|:------|:-------------|
