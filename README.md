@@ -101,6 +101,7 @@ You can start contributing by adding the following:
 | [Magic Hour](https://magichour.ai/) | [Link](https://docs.magichour.ai) | Magic Hour offers a single API for AI video (Sora 2, Veo 3.1, Kling 3.0, Seedance, WAN) and image generation (GPT-image, Nano Banana Pro, Flux), plus face swap, lip sync and talking photo |
 | [TeamoRouter](https://teamorouter.cn) | [Link](https://teamorouter.cn/docs) | LLM API gateway with OpenAI-compatible endpoints plus a native Anthropic Messages API — Claude Code and Codex connect by changing only the base URL |
 | [Bifrost](https://www.getmaxim.ai/bifrost) | [Link](https://docs.getbifrost.ai/) | Go-native, OpenAI-compatible AI gateway with multi-provider routing, automatic failover, load balancing, guardrails, MCP gateway support, and built-in logs, metrics, and tracing |
+| [Septor Labs](https://septorlabs.com/) | [Link](https://septorlabs.com/docs/introduction) | Hosted gateway for agent traffic. OpenAI Chat Completions and Anthropic Messages, with priority, weight, least-connections, or latency routing and failover before the first token. An opt-in semantic-cache hit bills at 70%. Range-priced models bill at the provider that served the call and never above the published ceiling; on the public catalog checked 2026-10-30, 120 of 157 range-priced models show a cheapest rate at least 30% under that ceiling (the floor of the band, not a guaranteed bill). |
 
 ## Other AI Tools
 
