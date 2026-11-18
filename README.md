@@ -73,6 +73,7 @@ You can start contributing by adding the following:
 | [QuickSilver Pro](https://quicksilverpro.io/) | [Link](https://quicksilverpro.io/docs) | OpenAI-compatible inference API for open-weight LLMs (DeepSeek, Qwen, Kimi) and the Google Gemini family. Drop-in base URL, with a machine-readable pricing feed at /pricing.json. |
 | [Text-Generator](https://text-generator.io) | [Link](https://text-generator.io/docs) | Unified text, vision, and speech API with privacy-first design. ChatGPT-compatible endpoint for text generation, image understanding, and speech processing. |
 | [Netwrck](https://netwrck.com) | [Link](https://netwrck.com/api) | AI character chat API with voice and image generation. Build conversational AI characters with text, voice, and image capabilities. |
+| [Miragea](https://miragea.ai/) | [Link](https://miragea.ai/v1/guide) | Miragea offers a REST API for text-to-speech with voice cloning from a 5–10 second sample, multi-speaker dubbing in 10 languages, and audio/video to subtitles. |
 
 ## AI Gateway/Aggregator
 
