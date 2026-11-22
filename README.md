@@ -73,6 +73,7 @@ You can start contributing by adding the following:
 | [QuickSilver Pro](https://quicksilverpro.io/) | [Link](https://quicksilverpro.io/docs) | OpenAI-compatible inference API for open-weight LLMs (DeepSeek, Qwen, Kimi) and the Google Gemini family. Drop-in base URL, with a machine-readable pricing feed at /pricing.json. |
 | [Text-Generator](https://text-generator.io) | [Link](https://text-generator.io/docs) | Unified text, vision, and speech API with privacy-first design. ChatGPT-compatible endpoint for text generation, image understanding, and speech processing. |
 | [Netwrck](https://netwrck.com) | [Link](https://netwrck.com/api) | AI character chat API with voice and image generation. Build conversational AI characters with text, voice, and image capabilities. |
+| [WaveSpeedAI](https://wavespeed.ai/) | [Link](https://wavespeed.ai/docs) | API and web app for image, video, audio and 3D generation models such as Seedream, Seedance, Kling, Wan and Veo, with Python and JavaScript SDKs and an OpenAI-compatible LLM API. |
 
 ## AI Gateway/Aggregator
 
