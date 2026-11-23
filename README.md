@@ -39,6 +39,7 @@ You can start contributing by adding the following:
 
 | Project Homepage    | API Docs Link  | Description (2 lines max)  |
 |:-----------|:------|:-------------|
+| [Free Image to Video](https://freeimagetovideo.ai/) | [Link](https://freeimagetovideo.readthedocs.io/en/latest/) | Free image to video AI with no daily cap, synchronized sound, no watermark, REST API, and hosted MCP server. |
 | [Llama AI](https://www.llama-api.com/) | [Link](https://docs.llama-api.com/quickstart) | Offers APIs to access Llama models to answer complex queries and generate text.|
 | [Databricks](https://docs.databricks.com/en/machine-learning/foundation-models/index.html) | [Link](https://docs.databricks.com/en/machine-learning/foundation-models/api-reference.html) | Databricks supports Foundation Model APIs which allow you to access and query state-of-the-art open models. You can quickly and easily build applications that leverage a high-quality generative AI model without maintaining your own model deployment. |
 | [DeepAI](https://deepai.org/) | [Link](https://deepai.org/docs) | DeepAI is a user-friendly platform providing state-of-the-art AI tools & APIs that unlock and enhance creativity across industries, widely democratizing access to AI technologies for both developers and non-tech users. |
